@@ -1,0 +1,2081 @@
+2025-10-10 15:07:06  Packet count: 1  
+2025-10-10 15:07:07  Packet count: 85  
+2025-10-10 15:07:08  Packet count: 20  
+2025-10-10 15:07:09  Packet count: 1  
+2025-10-10 15:07:10  Packet count: 3  
+2025-10-10 15:07:11  Packet count: 3  
+2025-10-10 15:07:12  Packet count: 14  
+2025-10-10 15:07:13  Packet count: 2  
+2025-10-10 15:07:14  Packet count: 15  
+2025-10-10 15:07:15  Packet count: 15  
+2025-10-10 15:07:16  Packet count: 173  
+2025-10-10 15:07:17  Packet count: 62  
+2025-10-10 15:07:18  Packet count: 81  
+2025-10-10 15:07:19  Packet count: 38  
+2025-10-10 15:07:20  Packet count: 7  
+2025-10-10 15:07:21  Packet count: 1  
+2025-10-10 15:07:22  Packet count: 511  
+2025-10-10 15:07:23  Packet count: 66  
+2025-10-10 15:07:24  Packet count: 34  
+2025-10-10 15:07:25  Packet count: 69  
+2025-10-10 15:07:26  Packet count: 25  
+2025-10-10 15:07:27  Packet count: 5  
+2025-10-10 15:07:28  Packet count: 5  
+2025-10-10 15:07:29  Packet count: 1  
+2025-10-10 15:07:30  Packet count: 2  
+2025-10-10 15:07:31  Packet count: 70  
+2025-10-10 15:07:32  Packet count: 180  
+2025-10-10 15:07:33  Packet count: 59  
+2025-10-10 15:07:34  Packet count: 6  
+2025-10-10 15:07:35  Packet count: 1  
+2025-10-10 15:07:36  Packet count: 4  
+2025-10-10 15:07:37  Packet count: 5  
+2025-10-10 15:07:38  Packet count: 2  
+2025-10-10 15:07:39  Packet count: 1  
+2025-10-10 15:07:40  Packet count: 0  
+2025-10-10 15:07:41  Packet count: 1  
+2025-10-10 15:07:42  Packet count: 4  
+2025-10-10 15:07:43  Packet count: 8  
+2025-11-22 17:50:58  Packet count: 1  
+2025-11-22 17:50:59  Packet count: 4  
+2025-11-22 17:51:00  Packet count: 10  
+2025-11-22 17:51:01  Packet count: 14  
+2025-11-22 17:51:02  Packet count: 96  
+2025-11-22 17:51:03  Packet count: 7  
+2025-11-22 17:51:04  Packet count: 12  
+2025-11-22 17:51:05  Packet count: 1  
+2025-11-22 17:51:06  Packet count: 50  
+2025-11-22 17:51:07  Packet count: 44  
+2025-11-22 17:51:08  Packet count: 1  
+2025-11-22 17:51:09  Packet count: 12  
+2025-11-22 17:51:10  Packet count: 12  
+2025-11-22 17:51:11  Packet count: 1  
+2025-11-22 17:51:12  Packet count: 5  
+2025-11-22 17:51:13  Packet count: 7  
+2025-11-22 17:51:14  Packet count: 1  
+2025-11-22 17:51:15  Packet count: 10  
+2025-11-22 17:51:16  Packet count: 11  
+2025-11-22 17:51:17  Packet count: 3  
+2025-11-22 17:51:18  Packet count: 1  
+2025-11-22 17:51:19  Packet count: 7  
+2025-11-22 17:51:20  Packet count: 2  
+2025-11-22 17:51:21  Packet count: 50  
+2025-11-22 17:51:22  Packet count: 12  
+2025-11-22 17:51:23  Packet count: 293  
+2025-11-22 17:51:24  Packet count: 30  
+2025-11-22 17:51:25  Packet count: 1  
+2025-11-22 17:51:26  Packet count: 1  
+2025-11-22 17:51:27  Packet count: 1  
+2025-11-22 17:51:28  Packet count: 125  
+2025-11-22 17:51:29  Packet count: 166  
+2025-11-22 17:51:30  Packet count: 52  
+2025-11-22 17:51:31  Packet count: 55  
+2025-11-22 17:51:32  Packet count: 1  
+2025-11-22 17:51:33  Packet count: 700  
+2025-11-22 17:51:34  Packet count: 793  
+2025-11-22 17:51:35  Packet count: 174  
+2025-11-22 17:51:36  Packet count: 28  
+2025-11-22 17:51:37  Packet count: 17  
+2025-11-22 17:51:38  Packet count: 19  
+2025-11-22 17:51:39  Packet count: 75  
+2025-11-22 17:51:40  Packet count: 9  
+2025-11-22 17:51:41  Packet count: 10  
+2025-11-22 17:51:42  Packet count: 16  
+2025-11-22 17:51:43  Packet count: 18  
+2025-11-22 17:51:44  Packet count: 13  
+2025-11-22 17:51:45  Packet count: 12  
+2025-11-22 17:51:46  Packet count: 12  
+2025-11-22 17:51:47  Packet count: 9  
+2025-11-22 17:51:48  Packet count: 37  
+2025-11-22 17:51:49  Packet count: 12  
+2025-11-22 17:51:50  Packet count: 14  
+2025-11-22 17:51:51  Packet count: 10  
+2025-11-22 17:51:52  Packet count: 15  
+2025-11-22 17:51:53  Packet count: 178  
+2025-11-22 17:51:54  Packet count: 44  
+2025-11-22 17:51:55  Packet count: 8  
+2025-11-22 17:51:56  Packet count: 1  
+2025-11-22 17:51:57  Packet count: 21  
+2025-11-22 17:51:58  Packet count: 18  
+2025-11-22 17:51:59  Packet count: 9  
+2025-11-22 17:52:00  Packet count: 26  
+2025-11-22 17:52:01  Packet count: 22  
+2025-11-22 17:52:02  Packet count: 63  
+2025-11-22 17:52:03  Packet count: 158  
+2025-11-22 17:52:04  Packet count: 10  
+2025-11-22 17:52:05  Packet count: 1  
+2025-11-22 17:52:06  Packet count: 10  
+2025-11-22 17:52:07  Packet count: 7  
+2025-11-22 17:52:08  Packet count: 2  
+2025-11-22 17:52:09  Packet count: 23  
+2025-11-22 17:52:10  Packet count: 4  
+2025-11-22 17:52:11  Packet count: 1  
+2025-11-22 17:52:12  Packet count: 3  
+2025-11-22 17:52:13  Packet count: 18  
+2025-11-22 17:52:14  Packet count: 27  
+2025-11-22 17:52:15  Packet count: 2  
+2025-11-22 17:52:16  Packet count: 4  
+2025-11-22 17:52:17  Packet count: 2  
+2025-11-22 17:52:18  Packet count: 9  
+2025-11-22 17:52:19  Packet count: 7  
+2025-11-22 17:52:20  Packet count: 8  
+2025-11-22 17:52:21  Packet count: 7  
+2025-11-22 17:52:22  Packet count: 9  
+2025-11-22 17:52:23  Packet count: 131  
+2025-11-22 17:52:24  Packet count: 14  
+2025-11-22 17:52:25  Packet count: 4  
+2025-11-22 17:52:26  Packet count: 1  
+2025-11-22 17:52:27  Packet count: 2  
+2025-11-22 17:52:28  Packet count: 2  
+2025-11-22 17:52:29  Packet count: 1  
+2025-11-22 17:52:30  Packet count: 10  
+2025-11-22 17:52:31  Packet count: 17  
+2025-11-22 17:52:32  Packet count: 66  
+2025-11-22 17:52:33  Packet count: 23  
+2025-11-22 17:52:34  Packet count: 4  
+2025-11-22 17:52:35  Packet count: 1  
+2025-11-22 17:52:36  Packet count: 1  
+2025-11-22 17:52:37  Packet count: 4  
+2025-11-22 17:52:38  Packet count: 9  
+2025-11-22 17:52:39  Packet count: 5  
+2025-11-22 17:52:40  Packet count: 0  
+2025-11-22 17:52:41  Packet count: 1  
+2025-11-22 17:52:42  Packet count: 10  
+2025-11-22 17:52:43  Packet count: 3  
+2025-11-22 17:52:44  Packet count: 1  
+2025-11-22 17:52:45  Packet count: 1  
+2025-11-22 17:52:46  Packet count: 3  
+2025-11-22 17:52:47  Packet count: 2  
+2025-11-22 17:52:48  Packet count: 7  
+2025-11-22 17:52:49  Packet count: 3  
+2025-11-22 17:52:50  Packet count: 5  
+2025-11-22 17:52:51  Packet count: 5  
+2025-11-22 17:52:52  Packet count: 32  
+2025-11-22 17:52:53  Packet count: 9  
+2025-11-22 17:52:54  Packet count: 4  
+2025-11-22 17:52:55  Packet count: 5  
+2025-11-22 17:52:56  Packet count: 2  
+2025-11-22 17:52:57  Packet count: 2  
+2025-11-22 17:52:58  Packet count: 3  
+2025-11-22 17:52:59  Packet count: 2  
+2025-11-22 17:53:00  Packet count: 5  
+2025-11-22 17:53:01  Packet count: 9  
+2025-11-22 17:53:02  Packet count: 1  
+2025-11-22 17:53:03  Packet count: 23  
+2025-11-22 17:53:04  Packet count: 1  
+2025-11-22 17:53:05  Packet count: 2  
+2025-11-22 17:53:06  Packet count: 3  
+2025-11-22 17:53:07  Packet count: 4  
+2025-11-22 17:53:08  Packet count: 24  
+2025-11-22 17:53:09  Packet count: 3  
+2025-11-22 17:53:10  Packet count: 6  
+2025-11-22 17:53:11  Packet count: 2  
+2025-11-22 17:53:12  Packet count: 1  
+2025-11-22 17:53:13  Packet count: 12  
+2025-11-22 17:53:14  Packet count: 1690  [ALERT]
+2025-11-22 17:53:15  Packet count: 5438  [ALERT]
+2025-11-22 17:53:16  Packet count: 95  
+2025-11-22 17:53:17  Packet count: 56  
+2025-11-22 17:53:18  Packet count: 7  
+2025-11-22 17:53:19  Packet count: 1  
+2025-11-22 17:53:20  Packet count: 1702  [ALERT]
+2025-11-22 17:53:21  Packet count: 67  
+2025-11-22 17:53:22  Packet count: 6  
+2025-11-22 17:53:23  Packet count: 20  
+2025-11-22 17:53:24  Packet count: 59  
+2025-11-22 17:53:25  Packet count: 3654  [ALERT]
+2025-11-22 17:53:26  Packet count: 4967  [ALERT]
+2025-11-22 17:53:27  Packet count: 1795  [ALERT]
+2025-11-22 17:53:28  Packet count: 35  
+2025-11-22 17:53:29  Packet count: 6  
+2025-11-22 17:53:30  Packet count: 3  
+2025-11-22 17:53:31  Packet count: 11  
+2025-11-22 17:53:32  Packet count: 8  
+2025-11-22 17:53:33  Packet count: 1  
+2025-11-22 17:53:34  Packet count: 25  
+2025-11-22 17:53:35  Packet count: 0  
+2025-11-22 17:53:36  Packet count: 1  
+2025-11-22 17:53:37  Packet count: 6  
+2025-11-22 17:53:38  Packet count: 31  
+2025-11-22 17:53:39  Packet count: 8  
+2025-11-22 17:53:40  Packet count: 4  
+2025-11-22 17:53:41  Packet count: 68  
+2025-11-22 17:53:42  Packet count: 8  
+2025-11-22 17:53:43  Packet count: 8  
+2025-11-22 17:53:44  Packet count: 4  
+2025-11-22 17:53:45  Packet count: 3  
+2025-11-22 17:53:46  Packet count: 11  
+2025-11-22 17:53:47  Packet count: 0  
+2025-11-22 17:53:48  Packet count: 1  
+2025-11-22 17:53:49  Packet count: 15  
+2025-11-22 17:53:50  Packet count: 24  
+2025-11-22 17:53:51  Packet count: 27  
+2025-11-22 17:53:52  Packet count: 1  
+2025-11-22 17:53:53  Packet count: 21  
+2025-11-22 17:53:54  Packet count: 129  
+2025-11-22 17:53:55  Packet count: 61  
+2025-11-22 17:53:56  Packet count: 1  
+2025-11-22 17:53:57  Packet count: 29  
+2025-11-22 17:53:58  Packet count: 88  
+2025-11-22 17:53:59  Packet count: 37  
+2025-11-22 17:54:00  Packet count: 49  
+2025-11-22 17:54:01  Packet count: 32  
+2025-11-22 17:54:02  Packet count: 17  
+2025-11-22 17:54:03  Packet count: 8  
+2025-11-22 17:54:04  Packet count: 27  
+2025-11-22 17:54:05  Packet count: 40  
+2025-11-22 17:54:06  Packet count: 17  
+2025-11-22 17:54:07  Packet count: 12  
+2025-11-22 17:54:08  Packet count: 20  
+2025-11-22 17:54:09  Packet count: 23  
+2025-11-22 17:54:10  Packet count: 19  
+2025-11-22 17:54:11  Packet count: 63  
+2025-11-22 17:54:12  Packet count: 10  
+2025-11-22 17:54:13  Packet count: 21  
+2025-11-22 17:54:14  Packet count: 14  
+2025-11-22 17:54:15  Packet count: 21  
+2025-11-22 17:54:16  Packet count: 15  
+2025-11-22 17:54:17  Packet count: 11  
+2025-11-22 17:54:18  Packet count: 17  
+2025-11-22 17:54:19  Packet count: 11  
+2025-11-22 17:54:20  Packet count: 11  
+2025-11-22 17:54:21  Packet count: 13  
+2025-11-22 17:54:23  Packet count: 18  
+2025-11-22 17:54:24  Packet count: 78  
+2025-11-22 17:54:25  Packet count: 13  
+2025-11-22 17:54:26  Packet count: 11  
+2025-11-22 17:54:27  Packet count: 10  
+2025-11-22 17:54:28  Packet count: 14  
+2025-11-22 17:54:29  Packet count: 13  
+2025-11-22 17:54:30  Packet count: 119  
+2025-11-22 17:54:31  Packet count: 143  
+2025-11-22 17:54:32  Packet count: 50  
+2025-11-22 17:54:33  Packet count: 15  
+2025-11-22 17:54:34  Packet count: 26  
+2025-11-22 17:54:35  Packet count: 70  
+2025-11-22 17:54:36  Packet count: 19  
+2025-11-22 17:54:37  Packet count: 13  
+2025-11-22 17:54:38  Packet count: 4  
+2025-11-22 17:54:39  Packet count: 17  
+2025-11-22 17:54:40  Packet count: 6  
+2025-11-22 17:54:41  Packet count: 66  
+2025-11-22 17:54:42  Packet count: 27  
+2025-11-22 17:54:43  Packet count: 11  
+2025-11-22 17:54:44  Packet count: 5  
+2025-11-22 17:54:45  Packet count: 1  
+2025-11-22 17:54:46  Packet count: 1  
+2025-11-22 17:54:47  Packet count: 4  
+2025-11-22 17:54:48  Packet count: 2  
+2025-11-22 17:54:49  Packet count: 7  
+2025-11-22 17:54:50  Packet count: 7  
+2025-11-22 17:54:51  Packet count: 5  
+2025-11-22 17:54:52  Packet count: 1  
+2025-11-22 17:54:53  Packet count: 4  
+2025-11-22 17:54:55  Packet count: 2  
+[2025-11-22 18:16:03] Packets: 3      Status: NORMAL
+[2025-11-22 18:16:04] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:05] Packets: 2      Status: NORMAL
+[2025-11-22 18:16:06] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:07] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:08] Packets: 2      Status: NORMAL
+[2025-11-22 18:16:09] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:10] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:11] Packets: 2      Status: NORMAL
+[2025-11-22 18:16:12] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:13] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:14] Packets: 2      Status: NORMAL
+[2025-11-22 18:16:15] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:16] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:17] Packets: 1      Status: NORMAL
+[2025-11-22 18:16:18] Packets: 3      Status: NORMAL
+[2025-11-22 18:16:19] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:20] Packets: 3      Status: NORMAL
+[2025-11-22 18:16:21] Packets: 3      Status: NORMAL
+[2025-11-22 18:16:22] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:23] Packets: 3      Status: NORMAL
+[2025-11-22 18:16:24] Packets: 3      Status: NORMAL
+[2025-11-22 18:16:25] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:26] Packets: 3      Status: NORMAL
+[2025-11-22 18:16:27] Packets: 3      Status: NORMAL
+[2025-11-22 18:16:28] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:29] Packets: 3      Status: NORMAL
+[2025-11-22 18:16:30] Packets: 3      Status: NORMAL
+[2025-11-22 18:16:31] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:32] Packets: 3      Status: NORMAL
+[2025-11-22 18:16:33] Packets: 3      Status: NORMAL
+[2025-11-22 18:16:34] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:35] Packets: 3      Status: NORMAL
+[2025-11-22 18:16:36] Packets: 3      Status: NORMAL
+[2025-11-22 18:16:37] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:38] Packets: 3      Status: NORMAL
+[2025-11-22 18:16:39] Packets: 1      Status: NORMAL
+[2025-11-22 18:16:40] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:41] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:42] Packets: 2      Status: NORMAL
+[2025-11-22 18:16:43] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:44] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:45] Packets: 2      Status: NORMAL
+[2025-11-22 18:16:46] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:47] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:48] Packets: 2      Status: NORMAL
+[2025-11-22 18:16:49] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:50] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:51] Packets: 22     Status: NORMAL
+[2025-11-22 18:16:52] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:53] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:54] Packets: 12     Status: NORMAL
+[2025-11-22 18:16:55] Packets: 10     Status: NORMAL
+[2025-11-22 18:16:56] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:57] Packets: 2      Status: NORMAL
+[2025-11-22 18:16:58] Packets: 4      Status: NORMAL
+[2025-11-22 18:16:59] Packets: 4      Status: NORMAL
+[2025-11-22 18:17:00] Packets: 2      Status: NORMAL
+[2025-11-22 18:17:01] Packets: 4      Status: NORMAL
+[2025-11-22 18:17:02] Packets: 4      Status: NORMAL
+[2025-11-22 18:17:03] Packets: 1      Status: NORMAL
+[2025-11-22 18:17:04] Packets: 15     Status: NORMAL
+[2025-11-22 18:17:05] Packets: 8      Status: NORMAL
+[2025-11-22 18:17:06] Packets: 16     Status: NORMAL
+[2025-11-22 18:17:07] Packets: 19     Status: NORMAL
+[2025-11-22 18:17:08] Packets: 19     Status: NORMAL
+[2025-11-22 18:17:09] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:10] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:11] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:12] Packets: 15     Status: NORMAL
+[2025-11-22 18:17:13] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:14] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:15] Packets: 15     Status: NORMAL
+[2025-11-22 18:17:16] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:17] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:18] Packets: 15     Status: NORMAL
+[2025-11-22 18:17:19] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:20] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:21] Packets: 15     Status: NORMAL
+[2025-11-22 18:17:22] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:23] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:24] Packets: 15     Status: NORMAL
+[2025-11-22 18:17:25] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:26] Packets: 15     Status: NORMAL
+[2025-11-22 18:17:27] Packets: 16     Status: NORMAL
+[2025-11-22 18:17:28] Packets: 16     Status: NORMAL
+[2025-11-22 18:17:29] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:30] Packets: 16     Status: NORMAL
+[2025-11-22 18:17:31] Packets: 16     Status: NORMAL
+[2025-11-22 18:17:32] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:33] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:34] Packets: 15     Status: NORMAL
+[2025-11-22 18:17:35] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:36] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:37] Packets: 15     Status: NORMAL
+[2025-11-22 18:17:38] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:39] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:40] Packets: 15     Status: NORMAL
+[2025-11-22 18:17:41] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:42] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:43] Packets: 15     Status: NORMAL
+[2025-11-22 18:17:44] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:45] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:46] Packets: 15     Status: NORMAL
+[2025-11-22 18:17:47] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:48] Packets: 15     Status: NORMAL
+[2025-11-22 18:17:49] Packets: 15     Status: NORMAL
+[2025-11-22 18:17:50] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:51] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:52] Packets: 15     Status: NORMAL
+[2025-11-22 18:17:53] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:54] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:55] Packets: 15     Status: NORMAL
+[2025-11-22 18:17:56] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:57] Packets: 17     Status: NORMAL
+[2025-11-22 18:17:58] Packets: 23     Status: NORMAL
+[2025-11-22 18:17:59] Packets: 33     Status: NORMAL
+[2025-11-22 18:18:00] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:01] Packets: 15     Status: NORMAL
+[2025-11-22 18:18:02] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:03] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:04] Packets: 15     Status: NORMAL
+[2025-11-22 18:18:05] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:06] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:07] Packets: 15     Status: NORMAL
+[2025-11-22 18:18:08] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:09] Packets: 15     Status: NORMAL
+[2025-11-22 18:18:10] Packets: 16     Status: NORMAL
+[2025-11-22 18:18:11] Packets: 16     Status: NORMAL
+[2025-11-22 18:18:12] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:13] Packets: 16     Status: NORMAL
+[2025-11-22 18:18:14] Packets: 16     Status: NORMAL
+[2025-11-22 18:18:15] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:16] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:17] Packets: 15     Status: NORMAL
+[2025-11-22 18:18:18] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:19] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:20] Packets: 15     Status: NORMAL
+[2025-11-22 18:18:21] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:22] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:23] Packets: 15     Status: NORMAL
+[2025-11-22 18:18:24] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:25] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:26] Packets: 15     Status: NORMAL
+[2025-11-22 18:18:27] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:28] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:29] Packets: 15     Status: NORMAL
+[2025-11-22 18:18:30] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:31] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:32] Packets: 15     Status: NORMAL
+[2025-11-22 18:18:33] Packets: 15     Status: NORMAL
+[2025-11-22 18:18:34] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:35] Packets: 15     Status: NORMAL
+[2025-11-22 18:18:36] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:37] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:38] Packets: 15     Status: NORMAL
+[2025-11-22 18:18:39] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:40] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:41] Packets: 15     Status: NORMAL
+[2025-11-22 18:18:42] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:43] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:44] Packets: 15     Status: NORMAL
+[2025-11-22 18:18:45] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:46] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:47] Packets: 15     Status: NORMAL
+[2025-11-22 18:18:48] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:49] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:50] Packets: 15     Status: NORMAL
+[2025-11-22 18:18:51] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:52] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:53] Packets: 15     Status: NORMAL
+[2025-11-22 18:18:54] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:55] Packets: 18     Status: NORMAL
+[2025-11-22 18:18:56] Packets: 15     Status: NORMAL
+[2025-11-22 18:18:57] Packets: 15     Status: NORMAL
+[2025-11-22 18:18:58] Packets: 17     Status: NORMAL
+[2025-11-22 18:18:59] Packets: 16     Status: NORMAL
+[2025-11-22 18:19:00] Packets: 16     Status: NORMAL
+[2025-11-22 18:19:01] Packets: 17     Status: NORMAL
+[2025-11-22 18:19:02] Packets: 16     Status: NORMAL
+[2025-11-22 18:19:03] Packets: 16     Status: NORMAL
+[2025-11-22 18:19:04] Packets: 17     Status: NORMAL
+[2025-11-22 18:19:05] Packets: 17     Status: NORMAL
+[2025-11-22 18:19:06] Packets: 17     Status: NORMAL
+[2025-11-22 18:19:07] Packets: 19     Status: NORMAL
+[2025-11-22 18:19:08] Packets: 19     Status: NORMAL
+[2025-11-22 18:19:09] Packets: 17     Status: NORMAL
+[2025-11-22 18:19:10] Packets: 17     Status: NORMAL
+[2025-11-22 18:19:11] Packets: 17     Status: NORMAL
+[2025-11-22 18:19:12] Packets: 21     Status: NORMAL
+[2025-11-22 18:19:13] Packets: 50     Status: NORMAL
+[2025-11-22 18:19:14] Packets: 25     Status: NORMAL
+[2025-11-22 18:19:15] Packets: 43     Status: NORMAL
+[2025-11-22 18:19:16] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:17] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:18] Packets: 28     Status: NORMAL
+[2025-11-22 18:19:19] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:20] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:21] Packets: 28     Status: NORMAL
+[2025-11-22 18:19:22] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:23] Packets: 31     Status: NORMAL
+[2025-11-22 18:19:24] Packets: 28     Status: NORMAL
+[2025-11-22 18:19:25] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:26] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:27] Packets: 28     Status: NORMAL
+[2025-11-22 18:19:28] Packets: 15     Status: NORMAL
+[2025-11-22 18:19:29] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:30] Packets: 28     Status: NORMAL
+[2025-11-22 18:19:31] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:32] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:33] Packets: 28     Status: NORMAL
+[2025-11-22 18:19:34] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:35] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:36] Packets: 28     Status: NORMAL
+[2025-11-22 18:19:37] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:38] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:39] Packets: 28     Status: NORMAL
+[2025-11-22 18:19:40] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:41] Packets: 43     Status: NORMAL
+[2025-11-22 18:19:42] Packets: 28     Status: NORMAL
+[2025-11-22 18:19:43] Packets: 32     Status: NORMAL
+[2025-11-22 18:19:44] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:45] Packets: 28     Status: NORMAL
+[2025-11-22 18:19:46] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:47] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:48] Packets: 28     Status: NORMAL
+[2025-11-22 18:19:49] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:50] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:51] Packets: 28     Status: NORMAL
+[2025-11-22 18:19:52] Packets: 15     Status: NORMAL
+[2025-11-22 18:19:53] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:54] Packets: 28     Status: NORMAL
+[2025-11-22 18:19:55] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:56] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:57] Packets: 28     Status: NORMAL
+[2025-11-22 18:19:58] Packets: 30     Status: NORMAL
+[2025-11-22 18:19:59] Packets: 38     Status: NORMAL
+[2025-11-22 18:20:00] Packets: 45     Status: NORMAL
+[2025-11-22 18:20:01] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:02] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:03] Packets: 41     Status: NORMAL
+[2025-11-22 18:20:04] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:05] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:06] Packets: 28     Status: NORMAL
+[2025-11-22 18:20:07] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:08] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:09] Packets: 28     Status: NORMAL
+[2025-11-22 18:20:10] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:11] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:12] Packets: 28     Status: NORMAL
+[2025-11-22 18:20:13] Packets: 15     Status: NORMAL
+[2025-11-22 18:20:14] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:15] Packets: 29     Status: NORMAL
+[2025-11-22 18:20:16] Packets: 28     Status: NORMAL
+[2025-11-22 18:20:17] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:18] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:19] Packets: 28     Status: NORMAL
+[2025-11-22 18:20:20] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:21] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:22] Packets: 28     Status: NORMAL
+[2025-11-22 18:20:23] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:24] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:25] Packets: 41     Status: NORMAL
+[2025-11-22 18:20:26] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:27] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:28] Packets: 28     Status: NORMAL
+[2025-11-22 18:20:29] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:30] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:31] Packets: 28     Status: NORMAL
+[2025-11-22 18:20:32] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:33] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:34] Packets: 28     Status: NORMAL
+[2025-11-22 18:20:35] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:36] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:37] Packets: 28     Status: NORMAL
+[2025-11-22 18:20:38] Packets: 15     Status: NORMAL
+[2025-11-22 18:20:39] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:40] Packets: 28     Status: NORMAL
+[2025-11-22 18:20:41] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:42] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:43] Packets: 28     Status: NORMAL
+[2025-11-22 18:20:44] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:45] Packets: 29     Status: NORMAL
+[2025-11-22 18:20:46] Packets: 28     Status: NORMAL
+[2025-11-22 18:20:47] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:48] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:49] Packets: 28     Status: NORMAL
+[2025-11-22 18:20:50] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:51] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:52] Packets: 28     Status: NORMAL
+[2025-11-22 18:20:53] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:54] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:55] Packets: 28     Status: NORMAL
+[2025-11-22 18:20:56] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:57] Packets: 30     Status: NORMAL
+[2025-11-22 18:20:58] Packets: 28     Status: NORMAL
+[2025-11-22 18:20:59] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:00] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:01] Packets: 28     Status: NORMAL
+[2025-11-22 18:21:02] Packets: 15     Status: NORMAL
+[2025-11-22 18:21:03] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:04] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:05] Packets: 28     Status: NORMAL
+[2025-11-22 18:21:06] Packets: 45     Status: NORMAL
+[2025-11-22 18:21:07] Packets: 32     Status: NORMAL
+[2025-11-22 18:21:08] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:09] Packets: 32     Status: NORMAL
+[2025-11-22 18:21:10] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:11] Packets: 28     Status: NORMAL
+[2025-11-22 18:21:12] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:13] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:14] Packets: 28     Status: NORMAL
+[2025-11-22 18:21:15] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:16] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:17] Packets: 28     Status: NORMAL
+[2025-11-22 18:21:18] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:19] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:20] Packets: 27     Status: NORMAL
+[2025-11-22 18:21:21] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:22] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:23] Packets: 28     Status: NORMAL
+[2025-11-22 18:21:24] Packets: 15     Status: NORMAL
+[2025-11-22 18:21:25] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:26] Packets: 28     Status: NORMAL
+[2025-11-22 18:21:27] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:28] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:29] Packets: 41     Status: NORMAL
+[2025-11-22 18:21:30] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:31] Packets: 29     Status: NORMAL
+[2025-11-22 18:21:32] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:33] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:34] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:35] Packets: 28     Status: NORMAL
+[2025-11-22 18:21:36] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:37] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:38] Packets: 28     Status: NORMAL
+[2025-11-22 18:21:39] Packets: 31     Status: NORMAL
+[2025-11-22 18:21:40] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:41] Packets: 28     Status: NORMAL
+[2025-11-22 18:21:42] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:43] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:44] Packets: 28     Status: NORMAL
+[2025-11-22 18:21:45] Packets: 30     Status: NORMAL
+[2025-11-22 18:21:46] Packets: 15     Status: NORMAL
+[2025-11-22 18:21:47] Packets: 15     Status: NORMAL
+[2025-11-22 18:21:48] Packets: 17     Status: NORMAL
+[2025-11-22 18:21:49] Packets: 17     Status: NORMAL
+[2025-11-22 18:21:50] Packets: 15     Status: NORMAL
+[2025-11-22 18:21:51] Packets: 17     Status: NORMAL
+[2025-11-22 18:21:52] Packets: 17     Status: NORMAL
+[2025-11-22 18:21:53] Packets: 15     Status: NORMAL
+[2025-11-22 18:21:54] Packets: 17     Status: NORMAL
+[2025-11-22 18:21:55] Packets: 17     Status: NORMAL
+[2025-11-22 18:21:56] Packets: 15     Status: NORMAL
+[2025-11-22 18:21:57] Packets: 17     Status: NORMAL
+[2025-11-22 18:21:58] Packets: 17     Status: NORMAL
+[2025-11-22 18:21:59] Packets: 15     Status: NORMAL
+[2025-11-22 18:22:00] Packets: 33     Status: NORMAL
+[2025-11-22 18:22:01] Packets: 25     Status: NORMAL
+[2025-11-22 18:22:02] Packets: 15     Status: NORMAL
+[2025-11-22 18:22:03] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:04] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:05] Packets: 15     Status: NORMAL
+[2025-11-22 18:22:06] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:07] Packets: 15     Status: NORMAL
+[2025-11-22 18:22:08] Packets: 16     Status: NORMAL
+[2025-11-22 18:22:09] Packets: 16     Status: NORMAL
+[2025-11-22 18:22:10] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:11] Packets: 16     Status: NORMAL
+[2025-11-22 18:22:12] Packets: 16     Status: NORMAL
+[2025-11-22 18:22:13] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:14] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:15] Packets: 15     Status: NORMAL
+[2025-11-22 18:22:16] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:17] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:18] Packets: 15     Status: NORMAL
+[2025-11-22 18:22:19] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:20] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:21] Packets: 15     Status: NORMAL
+[2025-11-22 18:22:22] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:23] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:24] Packets: 15     Status: NORMAL
+[2025-11-22 18:22:25] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:26] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:27] Packets: 15     Status: NORMAL
+[2025-11-22 18:22:28] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:29] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:30] Packets: 15     Status: NORMAL
+[2025-11-22 18:22:31] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:32] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:33] Packets: 13     Status: NORMAL
+[2025-11-22 18:22:34] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:35] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:36] Packets: 15     Status: NORMAL
+[2025-11-22 18:22:37] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:38] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:39] Packets: 15     Status: NORMAL
+[2025-11-22 18:22:40] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:41] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:42] Packets: 15     Status: NORMAL
+[2025-11-22 18:22:43] Packets: 30     Status: NORMAL
+[2025-11-22 18:22:44] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:45] Packets: 15     Status: NORMAL
+[2025-11-22 18:22:46] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:47] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:48] Packets: 15     Status: NORMAL
+[2025-11-22 18:22:49] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:50] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:51] Packets: 15     Status: NORMAL
+[2025-11-22 18:22:52] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:53] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:54] Packets: 14     Status: NORMAL
+[2025-11-22 18:22:55] Packets: 16     Status: NORMAL
+[2025-11-22 18:22:56] Packets: 17     Status: NORMAL
+[2025-11-22 18:22:57] Packets: 16     Status: NORMAL
+[2025-11-22 18:22:58] Packets: 16     Status: NORMAL
+[2025-11-22 18:22:59] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:00] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:01] Packets: 15     Status: NORMAL
+[2025-11-22 18:23:02] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:03] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:04] Packets: 16     Status: NORMAL
+[2025-11-22 18:23:05] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:06] Packets: 19     Status: NORMAL
+[2025-11-22 18:23:07] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:08] Packets: 21     Status: NORMAL
+[2025-11-22 18:23:09] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:10] Packets: 15     Status: NORMAL
+[2025-11-22 18:23:11] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:12] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:13] Packets: 16     Status: NORMAL
+[2025-11-22 18:23:14] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:15] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:16] Packets: 13     Status: NORMAL
+[2025-11-22 18:23:17] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:18] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:19] Packets: 15     Status: NORMAL
+[2025-11-22 18:23:20] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:21] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:22] Packets: 15     Status: NORMAL
+[2025-11-22 18:23:23] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:24] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:25] Packets: 15     Status: NORMAL
+[2025-11-22 18:23:26] Packets: 19     Status: NORMAL
+[2025-11-22 18:23:27] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:28] Packets: 15     Status: NORMAL
+[2025-11-22 18:23:29] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:30] Packets: 16     Status: NORMAL
+[2025-11-22 18:23:31] Packets: 15     Status: NORMAL
+[2025-11-22 18:23:32] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:33] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:34] Packets: 15     Status: NORMAL
+[2025-11-22 18:23:35] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:36] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:37] Packets: 15     Status: NORMAL
+[2025-11-22 18:23:38] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:39] Packets: 15     Status: NORMAL
+[2025-11-22 18:23:40] Packets: 15     Status: NORMAL
+[2025-11-22 18:23:41] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:42] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:43] Packets: 28     Status: NORMAL
+[2025-11-22 18:23:44] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:45] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:46] Packets: 15     Status: NORMAL
+[2025-11-22 18:23:47] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:48] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:49] Packets: 15     Status: NORMAL
+[2025-11-22 18:23:50] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:51] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:52] Packets: 15     Status: NORMAL
+[2025-11-22 18:23:53] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:54] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:55] Packets: 15     Status: NORMAL
+[2025-11-22 18:23:56] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:57] Packets: 17     Status: NORMAL
+[2025-11-22 18:23:58] Packets: 15     Status: NORMAL
+[2025-11-22 18:23:59] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:00] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:01] Packets: 39     Status: NORMAL
+[2025-11-22 18:24:02] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:03] Packets: 15     Status: NORMAL
+[2025-11-22 18:24:04] Packets: 16     Status: NORMAL
+[2025-11-22 18:24:05] Packets: 16     Status: NORMAL
+[2025-11-22 18:24:06] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:07] Packets: 16     Status: NORMAL
+[2025-11-22 18:24:08] Packets: 16     Status: NORMAL
+[2025-11-22 18:24:09] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:10] Packets: 16     Status: NORMAL
+[2025-11-22 18:24:11] Packets: 16     Status: NORMAL
+[2025-11-22 18:24:12] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:13] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:14] Packets: 15     Status: NORMAL
+[2025-11-22 18:24:15] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:16] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:17] Packets: 15     Status: NORMAL
+[2025-11-22 18:24:18] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:19] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:20] Packets: 15     Status: NORMAL
+[2025-11-22 18:24:21] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:22] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:23] Packets: 15     Status: NORMAL
+[2025-11-22 18:24:24] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:25] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:26] Packets: 15     Status: NORMAL
+[2025-11-22 18:24:27] Packets: 15     Status: NORMAL
+[2025-11-22 18:24:28] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:29] Packets: 15     Status: NORMAL
+[2025-11-22 18:24:30] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:31] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:32] Packets: 15     Status: NORMAL
+[2025-11-22 18:24:33] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:34] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:35] Packets: 15     Status: NORMAL
+[2025-11-22 18:24:36] Packets: 25     Status: NORMAL
+[2025-11-22 18:24:37] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:38] Packets: 15     Status: NORMAL
+[2025-11-22 18:24:39] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:40] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:41] Packets: 15     Status: NORMAL
+[2025-11-22 18:24:42] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:43] Packets: 30     Status: NORMAL
+[2025-11-22 18:24:44] Packets: 15     Status: NORMAL
+[2025-11-22 18:24:45] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:46] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:47] Packets: 15     Status: NORMAL
+[2025-11-22 18:24:48] Packets: 15     Status: NORMAL
+[2025-11-22 18:24:49] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:50] Packets: 16     Status: NORMAL
+[2025-11-22 18:24:51] Packets: 16     Status: NORMAL
+[2025-11-22 18:24:52] Packets: 17     Status: NORMAL
+[2025-11-22 18:24:53] Packets: 16     Status: NORMAL
+[2025-11-22 18:24:54] Packets: 16     Status: NORMAL
+[2025-11-22 18:25:51] Packets: 3      Status: NORMAL
+[2025-11-22 18:25:52] Packets: 1      Status: NORMAL
+[2025-11-22 18:25:53] Packets: 11     Status: NORMAL
+[2025-11-22 18:25:54] Packets: 4      Status: NORMAL
+[2025-11-22 18:25:55] Packets: 8      Status: NORMAL
+[2025-11-22 18:25:56] Packets: 14     Status: NORMAL
+[2025-11-22 18:25:57] Packets: 0      Status: NORMAL
+[2025-11-22 18:25:58] Packets: 32     Status: NORMAL
+[2025-11-22 18:25:59] Packets: 18     Status: NORMAL
+[2025-11-22 18:26:00] Packets: 22     Status: NORMAL
+[2025-11-22 18:26:01] Packets: 9      Status: NORMAL
+[2025-11-22 18:26:02] Packets: 5      Status: NORMAL
+[2025-11-22 18:26:03] Packets: 32     Status: NORMAL
+[2025-11-22 18:26:04] Packets: 0      Status: NORMAL
+[2025-11-22 18:26:05] Packets: 4      Status: NORMAL
+[2025-11-22 18:26:06] Packets: 1      Status: NORMAL
+[2025-11-22 18:26:07] Packets: 3      Status: NORMAL
+[2025-11-22 18:26:08] Packets: 2      Status: NORMAL
+[2025-11-22 18:26:09] Packets: 5      Status: NORMAL
+[2025-11-22 18:26:10] Packets: 3      Status: NORMAL
+[2025-11-22 18:26:11] Packets: 2      Status: NORMAL
+[2025-11-22 18:26:12] Packets: 17     Status: NORMAL
+[2025-11-22 18:26:13] Packets: 25     Status: NORMAL
+[2025-11-22 18:26:14] Packets: 5      Status: NORMAL
+[2025-11-22 18:26:15] Packets: 6      Status: NORMAL
+[2025-11-22 18:26:16] Packets: 7      Status: NORMAL
+[2025-11-22 18:26:17] Packets: 352    Status: NORMAL
+[2025-11-22 18:26:18] Packets: 36     Status: NORMAL
+[2025-11-22 18:26:19] Packets: 3      Status: NORMAL
+[2025-11-22 18:26:20] Packets: 6      Status: NORMAL
+[2025-11-22 18:26:21] Packets: 1      Status: NORMAL
+[2025-11-22 18:26:22] Packets: 115    Status: NORMAL
+[2025-11-22 18:26:23] Packets: 2      Status: NORMAL
+[2025-11-22 18:26:24] Packets: 6      Status: NORMAL
+[2025-11-22 18:26:25] Packets: 1      Status: NORMAL
+[2025-11-22 18:26:26] Packets: 2      Status: NORMAL
+[2025-11-22 18:26:27] Packets: 3      Status: NORMAL
+[2025-11-22 18:26:28] Packets: 1      Status: NORMAL
+[2025-11-22 18:26:29] Packets: 3      Status: NORMAL
+[2025-11-22 18:26:30] Packets: 1      Status: NORMAL
+[2025-11-22 18:26:31] Packets: 8      Status: NORMAL
+[2025-11-22 18:26:32] Packets: 5      Status: NORMAL
+[2025-11-22 18:26:33] Packets: 5      Status: NORMAL
+[2025-11-22 18:26:34] Packets: 14     Status: NORMAL
+[2025-11-22 18:26:35] Packets: 4      Status: NORMAL
+[2025-11-22 18:26:36] Packets: 10     Status: NORMAL
+[2025-11-22 18:26:37] Packets: 9      Status: NORMAL
+[2025-11-22 18:26:38] Packets: 3      Status: NORMAL
+[2025-11-22 18:26:39] Packets: 6      Status: NORMAL
+[2025-11-22 18:26:40] Packets: 2      Status: NORMAL
+[2025-11-22 18:26:41] Packets: 3      Status: NORMAL
+[2025-11-22 18:26:42] Packets: 2      Status: NORMAL
+[2025-11-22 18:26:43] Packets: 1      Status: NORMAL
+[2025-11-22 18:26:44] Packets: 4      Status: NORMAL
+[2025-11-22 18:26:45] Packets: 3      Status: NORMAL
+[2025-11-22 18:26:46] Packets: 1      Status: NORMAL
+[2025-11-22 18:26:47] Packets: 238    Status: NORMAL
+[2025-11-22 18:26:48] Packets: 3      Status: NORMAL
+[2025-11-22 18:26:49] Packets: 1      Status: NORMAL
+[2025-11-22 18:26:50] Packets: 8      Status: NORMAL
+[2025-11-22 18:26:51] Packets: 53     Status: NORMAL
+[2025-11-22 18:26:52] Packets: 3      Status: NORMAL
+[2025-11-22 18:26:53] Packets: 1      Status: NORMAL
+[2025-11-22 18:26:54] Packets: 1      Status: NORMAL
+[2025-11-22 18:26:55] Packets: 1      Status: NORMAL
+[2025-11-22 18:26:56] Packets: 0      Status: NORMAL
+[2025-11-22 18:26:57] Packets: 2      Status: NORMAL
+[2025-11-22 18:26:58] Packets: 20     Status: NORMAL
+[2025-11-22 18:26:59] Packets: 3      Status: NORMAL
+[2025-11-22 18:27:00] Packets: 91     Status: NORMAL
+[2025-11-22 18:27:01] Packets: 199    Status: NORMAL
+[2025-11-22 18:27:02] Packets: 7      Status: NORMAL
+[2025-11-22 18:27:03] Packets: 0      Status: NORMAL
+[2025-11-22 18:27:04] Packets: 1      Status: NORMAL
+[2025-11-22 18:27:05] Packets: 48     Status: NORMAL
+[2025-11-22 18:27:06] Packets: 39     Status: NORMAL
+[2025-11-22 18:27:07] Packets: 7      Status: NORMAL
+[2025-11-22 18:27:08] Packets: 218    Status: NORMAL
+[2025-11-22 18:27:09] Packets: 481    Status: NORMAL
+[2025-11-22 18:27:10] Packets: 567    Status: NORMAL
+[2025-11-22 18:27:11] Packets: 70     Status: NORMAL
+[2025-11-22 18:27:12] Packets: 33     Status: NORMAL
+[2025-11-22 18:27:13] Packets: 3      Status: NORMAL
+[2025-11-22 18:27:14] Packets: 10     Status: NORMAL
+[2025-11-22 18:27:15] Packets: 2      Status: NORMAL
+[2025-11-22 18:27:16] Packets: 5      Status: NORMAL
+[2025-11-22 18:27:17] Packets: 137    Status: NORMAL
+[2025-11-22 18:27:18] Packets: 36     Status: NORMAL
+[2025-11-22 18:27:19] Packets: 5      Status: NORMAL
+[2025-11-22 18:27:20] Packets: 29     Status: NORMAL
+[2025-11-22 18:27:21] Packets: 7      Status: NORMAL
+[2025-11-22 18:27:22] Packets: 4      Status: NORMAL
+[2025-11-22 18:27:23] Packets: 5      Status: NORMAL
+[2025-11-22 18:27:24] Packets: 1      Status: NORMAL
+[2025-11-22 18:27:25] Packets: 1      Status: NORMAL
+[2025-11-22 18:27:26] Packets: 9      Status: NORMAL
+[2025-11-22 18:27:27] Packets: 3      Status: NORMAL
+[2025-11-22 18:27:28] Packets: 1      Status: NORMAL
+[2025-11-22 18:27:29] Packets: 28     Status: NORMAL
+[2025-11-22 18:27:30] Packets: 6      Status: NORMAL
+[2025-11-22 18:27:31] Packets: 1      Status: NORMAL
+[2025-11-22 18:27:32] Packets: 13     Status: NORMAL
+[2025-11-22 18:27:33] Packets: 1      Status: NORMAL
+[2025-11-22 18:27:34] Packets: 1      Status: NORMAL
+[2025-11-22 18:27:35] Packets: 32     Status: NORMAL
+[2025-11-22 18:27:36] Packets: 0      Status: NORMAL
+[2025-11-22 18:27:37] Packets: 3      Status: NORMAL
+[2025-11-22 18:27:38] Packets: 2      Status: NORMAL
+[2025-11-22 18:27:39] Packets: 1      Status: NORMAL
+[2025-11-22 18:27:40] Packets: 4      Status: NORMAL
+[2025-11-22 18:27:41] Packets: 2      Status: NORMAL
+[2025-11-22 18:27:42] Packets: 2      Status: NORMAL
+[2025-11-22 18:27:43] Packets: 1      Status: NORMAL
+[2025-11-22 18:27:44] Packets: 3      Status: NORMAL
+[2025-11-22 18:27:45] Packets: 4      Status: NORMAL
+[2025-11-22 18:27:46] Packets: 3      Status: NORMAL
+[2025-11-22 18:27:47] Packets: 3      Status: NORMAL
+[2025-11-22 18:27:48] Packets: 27     Status: NORMAL
+[2025-11-22 18:27:49] Packets: 2      Status: NORMAL
+[2025-11-22 18:27:50] Packets: 22     Status: NORMAL
+[2025-11-22 18:27:51] Packets: 2      Status: NORMAL
+[2025-11-22 18:27:52] Packets: 4      Status: NORMAL
+[2025-11-22 18:27:53] Packets: 2      Status: NORMAL
+[2025-11-22 18:27:54] Packets: 12     Status: NORMAL
+[2025-11-22 18:27:55] Packets: 2      Status: NORMAL
+[2025-11-22 18:27:56] Packets: 21     Status: NORMAL
+[2025-11-22 18:27:57] Packets: 12     Status: NORMAL
+[2025-11-22 18:27:58] Packets: 2      Status: NORMAL
+[2025-11-22 18:27:59] Packets: 3      Status: NORMAL
+[2025-11-22 18:28:00] Packets: 1      Status: NORMAL
+[2025-11-22 18:28:01] Packets: 11     Status: NORMAL
+[2025-11-22 18:28:02] Packets: 18     Status: NORMAL
+[2025-11-22 18:28:03] Packets: 15     Status: NORMAL
+[2025-11-22 18:28:04] Packets: 5      Status: NORMAL
+[2025-11-22 18:28:05] Packets: 5      Status: NORMAL
+[2025-11-22 18:28:06] Packets: 48     Status: NORMAL
+[2025-11-22 18:28:07] Packets: 41     Status: NORMAL
+[2025-11-22 18:28:08] Packets: 23     Status: NORMAL
+[2025-11-22 18:28:09] Packets: 153    Status: NORMAL
+[2025-11-22 18:28:10] Packets: 108    Status: NORMAL
+[2025-11-22 18:28:11] Packets: 10     Status: NORMAL
+[2025-11-22 18:28:12] Packets: 9      Status: NORMAL
+[2025-11-22 18:28:13] Packets: 3      Status: NORMAL
+[2025-11-22 18:28:14] Packets: 32     Status: NORMAL
+[2025-11-22 18:28:15] Packets: 9      Status: NORMAL
+[2025-11-22 18:28:16] Packets: 21     Status: NORMAL
+[2025-11-22 18:28:17] Packets: 15     Status: NORMAL
+[2025-11-22 18:28:18] Packets: 0      Status: NORMAL
+[2025-11-22 18:28:19] Packets: 1      Status: NORMAL
+[2025-11-22 18:28:20] Packets: 352    Status: NORMAL
+[2025-11-22 18:28:21] Packets: 8      Status: NORMAL
+[2025-11-22 18:28:22] Packets: 346    Status: NORMAL
+[2025-11-22 18:28:23] Packets: 80     Status: NORMAL
+[2025-11-22 18:28:24] Packets: 31     Status: NORMAL
+[2025-11-22 18:28:25] Packets: 119    Status: NORMAL
+[2025-11-22 18:28:26] Packets: 467    Status: NORMAL
+[2025-11-22 18:28:26] Packets: 1      Status: NORMAL
+[2025-11-22 18:28:27] Packets: 260    Status: NORMAL
+[2025-11-22 18:28:27] Packets: 250    Status: NORMAL
+[2025-11-22 18:28:28] Packets: 37     Status: NORMAL
+[2025-11-22 18:28:28] Packets: 36     Status: NORMAL
+[2025-11-22 18:28:29] Packets: 24     Status: NORMAL
+[2025-11-22 18:28:29] Packets: 23     Status: NORMAL
+[2025-11-22 18:28:30] Packets: 9      Status: NORMAL
+[2025-11-22 18:28:30] Packets: 9      Status: NORMAL
+[2025-11-22 18:28:31] Packets: 7      Status: NORMAL
+[2025-11-22 18:28:31] Packets: 7      Status: NORMAL
+[2025-11-22 18:28:32] Packets: 3      Status: NORMAL
+[2025-11-22 18:28:32] Packets: 3      Status: NORMAL
+[2025-11-22 18:28:33] Packets: 4      Status: NORMAL
+[2025-11-22 18:28:33] Packets: 4      Status: NORMAL
+[2025-11-22 18:28:34] Packets: 3      Status: NORMAL
+[2025-11-22 18:28:35] Packets: 78     Status: NORMAL
+[2025-11-22 18:28:36] Packets: 286    Status: NORMAL
+[2025-11-22 18:28:37] Packets: 34     Status: NORMAL
+[2025-11-22 18:28:38] Packets: 4      Status: NORMAL
+[2025-11-22 18:28:39] Packets: 1      Status: NORMAL
+[2025-11-22 18:28:40] Packets: 3      Status: NORMAL
+[2025-11-22 18:28:41] Packets: 88     Status: NORMAL
+[2025-11-22 18:28:42] Packets: 3      Status: NORMAL
+[2025-11-22 18:28:43] Packets: 0      Status: NORMAL
+[2025-11-22 18:28:44] Packets: 3      Status: NORMAL
+[2025-11-22 18:28:45] Packets: 1      Status: NORMAL
+[2025-11-22 18:28:46] Packets: 5      Status: NORMAL
+[2025-11-22 18:28:47] Packets: 193    Status: NORMAL
+[2025-11-22 18:28:48] Packets: 31     Status: NORMAL
+[2025-11-22 18:28:49] Packets: 4      Status: NORMAL
+[2025-11-22 18:28:50] Packets: 15     Status: NORMAL
+[2025-11-22 18:28:51] Packets: 12     Status: NORMAL
+[2025-11-22 18:28:52] Packets: 3      Status: NORMAL
+[2025-11-22 18:28:53] Packets: 3      Status: NORMAL
+[2025-11-22 18:28:54] Packets: 27     Status: NORMAL
+[2025-11-22 18:28:55] Packets: 14     Status: NORMAL
+[2025-11-22 18:28:56] Packets: 16     Status: NORMAL
+[2025-11-22 18:28:57] Packets: 38     Status: NORMAL
+[2025-11-22 18:28:58] Packets: 8      Status: NORMAL
+[2025-11-22 18:28:59] Packets: 32     Status: NORMAL
+[2025-11-22 18:29:00] Packets: 21     Status: NORMAL
+[2025-11-22 18:29:01] Packets: 18     Status: NORMAL
+[2025-11-22 18:29:02] Packets: 11     Status: NORMAL
+[2025-11-22 18:29:03] Packets: 8      Status: NORMAL
+[2025-11-22 18:29:04] Packets: 45     Status: NORMAL
+[2025-11-22 18:29:05] Packets: 179    Status: NORMAL
+[2025-11-22 18:29:06] Packets: 96     Status: NORMAL
+[2025-11-22 18:29:07] Packets: 47     Status: NORMAL
+[2025-11-22 18:29:08] Packets: 39     Status: NORMAL
+[2025-11-22 18:29:09] Packets: 2      Status: NORMAL
+[2025-11-22 18:29:10] Packets: 2      Status: NORMAL
+[2025-11-22 18:29:11] Packets: 2      Status: NORMAL
+[2025-11-22 18:29:12] Packets: 7      Status: NORMAL
+[2025-11-22 18:29:13] Packets: 1      Status: NORMAL
+[2025-11-22 18:29:14] Packets: 3      Status: NORMAL
+[2025-11-22 18:29:15] Packets: 4      Status: NORMAL
+[2025-11-22 18:29:16] Packets: 1      Status: NORMAL
+[2025-11-22 18:29:17] Packets: 15     Status: NORMAL
+[2025-11-22 18:29:18] Packets: 8      Status: NORMAL
+[2025-11-22 18:29:19] Packets: 28     Status: NORMAL
+[2025-11-22 18:29:20] Packets: 54     Status: NORMAL
+[2025-11-22 18:29:21] Packets: 3      Status: NORMAL
+[2025-11-22 18:29:22] Packets: 6      Status: NORMAL
+[2025-11-22 18:29:23] Packets: 0      Status: NORMAL
+[2025-11-22 18:29:24] Packets: 64     Status: NORMAL
+[2025-11-22 18:29:25] Packets: 10     Status: NORMAL
+[2025-11-22 18:29:26] Packets: 23     Status: NORMAL
+[2025-11-22 18:29:27] Packets: 1      Status: NORMAL
+[2025-11-22 18:29:28] Packets: 1      Status: NORMAL
+[2025-11-22 18:29:29] Packets: 1      Status: NORMAL
+[2025-11-22 18:29:30] Packets: 6      Status: NORMAL
+[2025-11-22 18:29:31] Packets: 6      Status: NORMAL
+[2025-11-22 18:29:32] Packets: 2      Status: NORMAL
+[2025-11-22 18:29:33] Packets: 3      Status: NORMAL
+[2025-11-22 18:29:34] Packets: 4      Status: NORMAL
+[2025-11-22 18:29:35] Packets: 84     Status: NORMAL
+[2025-11-22 18:29:36] Packets: 103    Status: NORMAL
+[2025-11-22 18:29:37] Packets: 1      Status: NORMAL
+[2025-11-22 18:29:38] Packets: 2      Status: NORMAL
+[2025-11-22 18:29:39] Packets: 0      Status: NORMAL
+[2025-11-22 18:29:40] Packets: 1      Status: NORMAL
+[2025-11-22 18:29:41] Packets: 6      Status: NORMAL
+[2025-11-22 18:29:42] Packets: 3      Status: NORMAL
+[2025-11-22 18:29:43] Packets: 11     Status: NORMAL
+[2025-11-22 18:29:44] Packets: 7      Status: NORMAL
+[2025-11-22 18:29:45] Packets: 3      Status: NORMAL
+[2025-11-22 18:29:46] Packets: 3      Status: NORMAL
+[2025-11-22 18:29:47] Packets: 2      Status: NORMAL
+[2025-11-22 18:29:48] Packets: 1      Status: NORMAL
+[2025-11-22 18:29:49] Packets: 2      Status: NORMAL
+[2025-11-22 18:29:50] Packets: 52     Status: NORMAL
+[2025-11-22 18:29:51] Packets: 9      Status: NORMAL
+[2025-11-22 18:29:52] Packets: 1      Status: NORMAL
+[2025-11-22 18:29:53] Packets: 2      Status: NORMAL
+[2025-11-22 18:29:54] Packets: 3      Status: NORMAL
+[2025-11-22 18:29:55] Packets: 1      Status: NORMAL
+[2025-11-22 18:29:56] Packets: 35     Status: NORMAL
+[2025-11-22 18:29:57] Packets: 32     Status: NORMAL
+[2025-11-22 18:29:58] Packets: 7      Status: NORMAL
+[2025-11-22 18:29:59] Packets: 8      Status: NORMAL
+[2025-11-22 18:30:00] Packets: 2      Status: NORMAL
+[2025-11-22 18:30:01] Packets: 6      Status: NORMAL
+[2025-11-22 18:30:02] Packets: 5      Status: NORMAL
+[2025-11-22 18:30:03] Packets: 8      Status: NORMAL
+[2025-11-22 18:30:04] Packets: 8      Status: NORMAL
+[2025-11-22 18:30:05] Packets: 9      Status: NORMAL
+[2025-11-22 18:30:06] Packets: 3      Status: NORMAL
+[2025-11-22 18:30:07] Packets: 1      Status: NORMAL
+[2025-11-22 18:30:08] Packets: 4      Status: NORMAL
+[2025-11-22 18:30:09] Packets: 1      Status: NORMAL
+[2025-11-22 18:30:10] Packets: 4      Status: NORMAL
+[2025-11-22 18:30:11] Packets: 9      Status: NORMAL
+[2025-11-22 18:30:12] Packets: 27     Status: NORMAL
+[2025-11-22 18:30:13] Packets: 1      Status: NORMAL
+[2025-11-22 18:30:14] Packets: 1      Status: NORMAL
+[2025-11-22 18:30:15] Packets: 22     Status: NORMAL
+[2025-11-22 18:30:16] Packets: 25     Status: NORMAL
+[2025-11-22 18:30:17] Packets: 3      Status: NORMAL
+[2025-11-22 18:30:18] Packets: 8      Status: NORMAL
+[2025-11-22 18:30:19] Packets: 2      Status: NORMAL
+[2025-11-22 18:30:20] Packets: 2      Status: NORMAL
+[2025-11-22 18:30:21] Packets: 14     Status: NORMAL
+[2025-11-22 18:30:22] Packets: 4      Status: NORMAL
+[2025-11-22 18:30:23] Packets: 30     Status: NORMAL
+[2025-11-22 18:30:24] Packets: 1      Status: NORMAL
+[2025-11-22 18:30:25] Packets: 34     Status: NORMAL
+[2025-11-22 18:30:26] Packets: 23     Status: NORMAL
+[2025-11-22 18:30:27] Packets: 26     Status: NORMAL
+[2025-11-22 18:30:28] Packets: 8      Status: NORMAL
+[2025-11-22 18:30:29] Packets: 42     Status: NORMAL
+[2025-11-22 18:30:30] Packets: 269    Status: NORMAL
+[2025-11-22 18:30:31] Packets: 2670   Status: ATTACK
+[2025-11-22 18:30:32] Packets: 90     Status: NORMAL
+[2025-11-22 18:30:33] Packets: 3      Status: NORMAL
+[2025-11-22 18:30:34] Packets: 0      Status: NORMAL
+[2025-11-22 18:30:35] Packets: 8      Status: NORMAL
+[2025-11-22 18:30:36] Packets: 35     Status: NORMAL
+[2025-11-22 18:30:37] Packets: 9      Status: NORMAL
+[2025-11-22 18:30:38] Packets: 0      Status: NORMAL
+[2025-11-22 18:30:39] Packets: 20     Status: NORMAL
+[2025-11-22 18:30:40] Packets: 1      Status: NORMAL
+[2025-11-22 18:30:41] Packets: 45     Status: NORMAL
+[2025-11-22 18:30:42] Packets: 4      Status: NORMAL
+[2025-11-22 18:30:43] Packets: 1      Status: NORMAL
+[2025-11-22 18:30:44] Packets: 571    Status: NORMAL
+[2025-11-22 18:30:45] Packets: 206    Status: NORMAL
+[2025-11-22 18:30:46] Packets: 51     Status: NORMAL
+[2025-11-22 18:30:47] Packets: 29     Status: NORMAL
+[2025-11-22 18:30:48] Packets: 31     Status: NORMAL
+[2025-11-22 18:30:49] Packets: 31     Status: NORMAL
+[2025-11-22 18:30:50] Packets: 0      Status: NORMAL
+[2025-11-22 18:30:51] Packets: 0      Status: NORMAL
+[2025-11-22 18:30:52] Packets: 1      Status: NORMAL
+[2025-11-22 18:30:53] Packets: 0      Status: NORMAL
+[2025-11-22 18:30:54] Packets: 1      Status: NORMAL
+[2025-11-22 18:30:55] Packets: 11     Status: NORMAL
+[2025-11-22 18:30:56] Packets: 4      Status: NORMAL
+[2025-11-22 18:30:57] Packets: 1      Status: NORMAL
+[2025-11-22 18:30:58] Packets: 0      Status: NORMAL
+[2025-11-22 18:30:59] Packets: 2      Status: NORMAL
+[2025-11-22 18:31:00] Packets: 0      Status: NORMAL
+[2025-11-22 18:31:01] Packets: 7      Status: NORMAL
+[2025-11-22 18:31:02] Packets: 9      Status: NORMAL
+[2025-11-22 18:31:03] Packets: 3      Status: NORMAL
+[2025-11-22 18:31:04] Packets: 2      Status: NORMAL
+[2025-11-22 18:31:05] Packets: 17     Status: NORMAL
+[2025-11-22 18:31:06] Packets: 17     Status: NORMAL
+[2025-11-22 18:31:07] Packets: 4      Status: NORMAL
+[2025-11-22 18:31:08] Packets: 6      Status: NORMAL
+[2025-11-22 18:31:09] Packets: 2      Status: NORMAL
+[2025-11-22 18:31:10] Packets: 11     Status: NORMAL
+[2025-11-22 18:31:11] Packets: 1      Status: NORMAL
+[2025-11-22 18:31:12] Packets: 7      Status: NORMAL
+[2025-11-22 18:31:13] Packets: 1      Status: NORMAL
+[2025-11-22 18:31:14] Packets: 21     Status: NORMAL
+[2025-11-22 18:31:15] Packets: 0      Status: NORMAL
+[2025-11-22 18:31:16] Packets: 3      Status: NORMAL
+[2025-11-22 18:31:17] Packets: 0      Status: NORMAL
+[2025-11-22 18:31:18] Packets: 1      Status: NORMAL
+[2025-11-22 18:31:19] Packets: 37     Status: NORMAL
+[2025-11-22 18:31:20] Packets: 4      Status: NORMAL
+[2025-11-22 18:31:21] Packets: 9      Status: NORMAL
+[2025-11-22 18:31:22] Packets: 8      Status: NORMAL
+[2025-11-22 18:31:23] Packets: 2      Status: NORMAL
+[2025-11-22 18:31:24] Packets: 23     Status: NORMAL
+[2025-11-22 18:31:25] Packets: 2      Status: NORMAL
+[2025-11-22 18:31:26] Packets: 5      Status: NORMAL
+[2025-11-22 18:31:27] Packets: 19     Status: NORMAL
+[2025-11-22 18:31:28] Packets: 0      Status: NORMAL
+[2025-11-22 18:31:29] Packets: 10     Status: NORMAL
+[2025-11-22 18:31:30] Packets: 5      Status: NORMAL
+[2025-11-22 18:31:31] Packets: 2      Status: NORMAL
+[2025-11-22 18:31:32] Packets: 1      Status: NORMAL
+[2025-11-22 18:31:33] Packets: 1      Status: NORMAL
+[2025-11-22 18:31:34] Packets: 23     Status: NORMAL
+[2025-11-22 18:31:35] Packets: 2      Status: NORMAL
+[2025-11-22 18:31:36] Packets: 12     Status: NORMAL
+[2025-11-22 18:31:37] Packets: 12     Status: NORMAL
+[2025-11-22 18:31:38] Packets: 0      Status: NORMAL
+[2025-11-22 18:31:39] Packets: 8      Status: NORMAL
+[2025-11-22 18:31:40] Packets: 2      Status: NORMAL
+[2025-11-22 18:31:41] Packets: 3      Status: NORMAL
+[2025-11-22 18:31:42] Packets: 4      Status: NORMAL
+[2025-11-22 18:31:43] Packets: 2      Status: NORMAL
+[2025-11-22 18:31:44] Packets: 1      Status: NORMAL
+[2025-11-22 18:31:45] Packets: 22     Status: NORMAL
+[2025-11-22 18:31:46] Packets: 328    Status: NORMAL
+[2025-11-22 18:31:47] Packets: 2      Status: NORMAL
+[2025-11-22 18:31:48] Packets: 1      Status: NORMAL
+[2025-11-22 18:31:49] Packets: 3      Status: NORMAL
+[2025-11-22 18:31:50] Packets: 20     Status: NORMAL
+[2025-11-22 18:31:51] Packets: 28     Status: NORMAL
+[2025-11-22 18:31:52] Packets: 10     Status: NORMAL
+[2025-11-22 18:31:53] Packets: 12     Status: NORMAL
+[2025-11-22 18:31:54] Packets: 42     Status: NORMAL
+[2025-11-22 18:31:55] Packets: 21     Status: NORMAL
+[2025-11-22 18:31:56] Packets: 19     Status: NORMAL
+[2025-11-22 18:31:57] Packets: 14     Status: NORMAL
+[2025-11-22 18:31:58] Packets: 13     Status: NORMAL
+[2025-11-22 18:31:59] Packets: 40     Status: NORMAL
+[2025-11-22 18:32:00] Packets: 14     Status: NORMAL
+[2025-11-22 18:32:01] Packets: 13     Status: NORMAL
+[2025-11-22 18:32:02] Packets: 15     Status: NORMAL
+[2025-11-22 18:32:03] Packets: 12     Status: NORMAL
+[2025-11-22 18:32:04] Packets: 23     Status: NORMAL
+[2025-11-22 18:32:05] Packets: 26     Status: NORMAL
+[2025-11-22 18:32:06] Packets: 17     Status: NORMAL
+[2025-11-22 18:32:07] Packets: 15     Status: NORMAL
+[2025-11-22 18:32:08] Packets: 28     Status: NORMAL
+[2025-11-22 18:32:09] Packets: 35     Status: NORMAL
+[2025-11-22 18:32:10] Packets: 32     Status: NORMAL
+[2025-11-22 18:32:11] Packets: 30     Status: NORMAL
+[2025-11-22 18:32:12] Packets: 42     Status: NORMAL
+[2025-11-22 18:32:13] Packets: 52     Status: NORMAL
+[2025-11-22 18:32:14] Packets: 45     Status: NORMAL
+[2025-11-22 18:32:15] Packets: 34     Status: NORMAL
+[2025-11-22 18:32:16] Packets: 38     Status: NORMAL
+[2025-11-22 18:32:17] Packets: 36     Status: NORMAL
+[2025-11-22 18:32:18] Packets: 36     Status: NORMAL
+[2025-11-22 18:32:19] Packets: 34     Status: NORMAL
+[2025-11-22 18:32:20] Packets: 31     Status: NORMAL
+[2025-11-22 18:32:21] Packets: 48     Status: NORMAL
+[2025-11-22 18:32:22] Packets: 46     Status: NORMAL
+[2025-11-22 18:32:23] Packets: 63     Status: NORMAL
+[2025-11-22 18:32:24] Packets: 35     Status: NORMAL
+[2025-11-22 18:32:25] Packets: 32     Status: NORMAL
+[2025-11-22 18:32:26] Packets: 43     Status: NORMAL
+[2025-11-22 18:32:27] Packets: 28     Status: NORMAL
+[2025-11-22 18:32:28] Packets: 42     Status: NORMAL
+[2025-11-22 18:32:29] Packets: 46     Status: NORMAL
+[2025-11-22 18:32:30] Packets: 40     Status: NORMAL
+[2025-11-22 18:32:31] Packets: 25     Status: NORMAL
+[2025-11-22 18:32:32] Packets: 3      Status: NORMAL
+[2025-11-22 18:32:33] Packets: 0      Status: NORMAL
+[2025-11-22 18:32:34] Packets: 1      Status: NORMAL
+[2025-11-22 18:32:35] Packets: 1      Status: NORMAL
+[2025-11-22 18:32:36] Packets: 1      Status: NORMAL
+[2025-11-22 18:32:37] Packets: 1      Status: NORMAL
+[2025-11-22 18:32:38] Packets: 7      Status: NORMAL
+[2025-11-22 18:32:39] Packets: 6      Status: NORMAL
+[2025-11-22 18:32:40] Packets: 3      Status: NORMAL
+[2025-11-22 18:32:41] Packets: 8      Status: NORMAL
+[2025-11-22 18:32:42] Packets: 3      Status: NORMAL
+[2025-11-22 18:32:43] Packets: 46     Status: NORMAL
+[2025-11-22 18:32:44] Packets: 143    Status: NORMAL
+[2025-11-22 18:32:45] Packets: 24     Status: NORMAL
+[2025-11-22 18:32:46] Packets: 3      Status: NORMAL
+[2025-11-22 18:32:47] Packets: 11     Status: NORMAL
+[2025-11-22 18:32:48] Packets: 58     Status: NORMAL
+[2025-11-22 18:32:49] Packets: 15     Status: NORMAL
+[2025-11-22 18:32:50] Packets: 16     Status: NORMAL
+[2025-11-22 18:32:51] Packets: 30     Status: NORMAL
+[2025-11-22 18:32:52] Packets: 12     Status: NORMAL
+[2025-11-22 18:32:53] Packets: 15     Status: NORMAL
+[2025-11-22 18:32:54] Packets: 41     Status: NORMAL
+[2025-11-22 18:32:55] Packets: 12     Status: NORMAL
+[2025-11-22 18:32:56] Packets: 13     Status: NORMAL
+[2025-11-22 18:32:57] Packets: 17     Status: NORMAL
+[2025-11-22 18:32:58] Packets: 14     Status: NORMAL
+[2025-11-22 18:32:59] Packets: 27     Status: NORMAL
+[2025-11-22 18:33:00] Packets: 12     Status: NORMAL
+[2025-11-22 18:33:01] Packets: 15     Status: NORMAL
+[2025-11-22 18:33:02] Packets: 7      Status: NORMAL
+[2025-11-22 18:33:03] Packets: 37     Status: NORMAL
+[2025-11-22 18:33:04] Packets: 36     Status: NORMAL
+[2025-11-22 18:33:05] Packets: 31     Status: NORMAL
+[2025-11-22 18:33:06] Packets: 41     Status: NORMAL
+[2025-11-22 18:33:07] Packets: 37     Status: NORMAL
+[2025-11-22 18:33:08] Packets: 37     Status: NORMAL
+[2025-11-22 18:33:09] Packets: 35     Status: NORMAL
+[2025-11-22 18:33:10] Packets: 35     Status: NORMAL
+[2025-11-22 18:33:11] Packets: 37     Status: NORMAL
+[2025-11-22 18:33:12] Packets: 33     Status: NORMAL
+[2025-11-22 18:33:13] Packets: 34     Status: NORMAL
+[2025-11-22 18:33:14] Packets: 52     Status: NORMAL
+[2025-11-22 18:33:15] Packets: 30     Status: NORMAL
+[2025-11-22 18:33:16] Packets: 38     Status: NORMAL
+[2025-11-22 18:33:17] Packets: 34     Status: NORMAL
+[2025-11-22 18:33:18] Packets: 99     Status: NORMAL
+[2025-11-22 18:33:19] Packets: 29     Status: NORMAL
+[2025-11-22 18:33:20] Packets: 31     Status: NORMAL
+[2025-11-22 18:33:21] Packets: 40     Status: NORMAL
+[2025-11-22 18:33:22] Packets: 39     Status: NORMAL
+[2025-11-22 18:33:23] Packets: 261    Status: NORMAL
+[2025-11-22 18:33:24] Packets: 45     Status: NORMAL
+[2025-11-22 18:33:25] Packets: 18     Status: NORMAL
+[2025-11-22 18:33:26] Packets: 55     Status: NORMAL
+[2025-11-22 18:33:27] Packets: 54     Status: NORMAL
+[2025-11-22 18:33:28] Packets: 8      Status: NORMAL
+[2025-11-22 18:33:29] Packets: 1      Status: NORMAL
+[2025-11-22 18:33:30] Packets: 0      Status: NORMAL
+[2025-11-22 18:33:31] Packets: 1      Status: NORMAL
+[2025-11-22 18:33:32] Packets: 4      Status: NORMAL
+[2025-11-22 18:33:33] Packets: 26     Status: NORMAL
+[2025-11-22 18:33:34] Packets: 2      Status: NORMAL
+[2025-11-22 18:33:35] Packets: 1      Status: NORMAL
+[2025-11-22 18:33:36] Packets: 6      Status: NORMAL
+[2025-11-22 18:33:37] Packets: 40     Status: NORMAL
+[2025-11-22 18:33:38] Packets: 7      Status: NORMAL
+[2025-11-22 18:33:39] Packets: 0      Status: NORMAL
+[2025-11-22 18:33:40] Packets: 0      Status: NORMAL
+[2025-11-22 18:33:41] Packets: 2      Status: NORMAL
+[2025-11-22 18:33:42] Packets: 4      Status: NORMAL
+[2025-11-22 18:33:43] Packets: 5      Status: NORMAL
+[2025-11-22 18:33:44] Packets: 6      Status: NORMAL
+[2025-11-22 18:33:45] Packets: 10     Status: NORMAL
+[2025-11-22 18:33:46] Packets: 26     Status: NORMAL
+[2025-11-22 18:33:47] Packets: 59     Status: NORMAL
+[2025-11-22 18:33:48] Packets: 5      Status: NORMAL
+[2025-11-22 18:33:49] Packets: 3      Status: NORMAL
+[2025-11-22 18:33:50] Packets: 2      Status: NORMAL
+[2025-11-22 18:33:51] Packets: 4      Status: NORMAL
+[2025-11-22 18:33:52] Packets: 6      Status: NORMAL
+[2025-11-22 18:33:53] Packets: 2      Status: NORMAL
+[2025-11-22 18:33:54] Packets: 1      Status: NORMAL
+[2025-11-22 18:33:55] Packets: 3      Status: NORMAL
+[2025-11-22 18:33:56] Packets: 2      Status: NORMAL
+[2025-11-22 18:33:57] Packets: 1      Status: NORMAL
+[2025-11-22 18:33:58] Packets: 268    Status: NORMAL
+[2025-11-22 18:33:59] Packets: 21     Status: NORMAL
+[2025-11-22 18:34:00] Packets: 2      Status: NORMAL
+[2025-11-22 18:34:01] Packets: 11     Status: NORMAL
+[2025-11-22 18:34:02] Packets: 0      Status: NORMAL
+[2025-11-22 18:34:03] Packets: 1      Status: NORMAL
+[2025-11-22 18:34:04] Packets: 48     Status: NORMAL
+[2025-11-22 18:34:05] Packets: 75     Status: NORMAL
+[2025-11-22 18:34:06] Packets: 16     Status: NORMAL
+[2025-11-22 18:34:07] Packets: 93     Status: NORMAL
+[2025-11-22 18:34:08] Packets: 20     Status: NORMAL
+[2025-11-22 18:34:09] Packets: 6      Status: NORMAL
+[2025-11-22 18:34:10] Packets: 22     Status: NORMAL
+[2025-11-22 18:34:11] Packets: 13     Status: NORMAL
+[2025-11-22 18:34:12] Packets: 22     Status: NORMAL
+[2025-11-22 18:34:13] Packets: 9      Status: NORMAL
+[2025-11-22 18:34:14] Packets: 8      Status: NORMAL
+[2025-11-22 18:34:15] Packets: 12     Status: NORMAL
+[2025-11-22 18:34:16] Packets: 13     Status: NORMAL
+[2025-11-22 18:34:17] Packets: 20     Status: NORMAL
+[2025-11-22 18:34:18] Packets: 213    Status: NORMAL
+[2025-11-22 18:34:19] Packets: 14     Status: NORMAL
+[2025-11-22 18:34:20] Packets: 11     Status: NORMAL
+[2025-11-22 18:34:21] Packets: 69     Status: NORMAL
+[2025-11-22 18:34:22] Packets: 20     Status: NORMAL
+[2025-11-22 18:34:23] Packets: 13     Status: NORMAL
+[2025-11-22 18:34:24] Packets: 15     Status: NORMAL
+[2025-11-22 18:34:25] Packets: 17     Status: NORMAL
+[2025-11-22 18:34:26] Packets: 18     Status: NORMAL
+[2025-11-22 18:34:27] Packets: 14     Status: NORMAL
+[2025-11-22 18:34:28] Packets: 50     Status: NORMAL
+[2025-11-22 18:34:29] Packets: 36     Status: NORMAL
+[2025-11-22 18:34:30] Packets: 23     Status: NORMAL
+[2025-11-22 18:34:31] Packets: 14     Status: NORMAL
+[2025-11-22 18:34:32] Packets: 3      Status: NORMAL
+[2025-11-22 18:34:33] Packets: 11     Status: NORMAL
+[2025-11-22 18:34:34] Packets: 3      Status: NORMAL
+[2025-11-22 18:34:35] Packets: 118    Status: NORMAL
+[2025-11-22 18:34:36] Packets: 109    Status: NORMAL
+[2025-11-22 18:34:37] Packets: 18     Status: NORMAL
+[2025-11-22 18:34:38] Packets: 37     Status: NORMAL
+[2025-11-22 18:34:39] Packets: 18     Status: NORMAL
+[2025-11-22 18:34:40] Packets: 15     Status: NORMAL
+[2025-11-22 18:34:41] Packets: 33     Status: NORMAL
+[2025-11-22 18:34:42] Packets: 33     Status: NORMAL
+[2025-11-22 18:34:43] Packets: 21     Status: NORMAL
+[2025-11-22 18:34:44] Packets: 34     Status: NORMAL
+[2025-11-22 18:34:45] Packets: 15     Status: NORMAL
+[2025-11-22 18:34:46] Packets: 14     Status: NORMAL
+[2025-11-22 18:34:47] Packets: 14     Status: NORMAL
+[2025-11-22 18:34:48] Packets: 14     Status: NORMAL
+[2025-11-22 18:34:49] Packets: 15     Status: NORMAL
+[2025-11-22 18:34:50] Packets: 18     Status: NORMAL
+[2025-11-22 18:34:51] Packets: 25     Status: NORMAL
+[2025-11-22 18:34:52] Packets: 37     Status: NORMAL
+[2025-11-22 18:34:53] Packets: 56     Status: NORMAL
+[2025-11-22 18:34:54] Packets: 10     Status: NORMAL
+[2025-11-22 18:34:55] Packets: 6      Status: NORMAL
+[2025-11-22 18:34:56] Packets: 13     Status: NORMAL
+[2025-11-22 18:34:57] Packets: 17     Status: NORMAL
+[2025-11-22 18:34:58] Packets: 55     Status: NORMAL
+[2025-11-22 18:34:59] Packets: 47     Status: NORMAL
+[2025-11-22 18:35:00] Packets: 29     Status: NORMAL
+[2025-11-22 18:35:01] Packets: 34     Status: NORMAL
+[2025-11-22 18:35:02] Packets: 31     Status: NORMAL
+[2025-11-22 18:35:03] Packets: 73     Status: NORMAL
+[2025-11-22 18:35:04] Packets: 43     Status: NORMAL
+[2025-11-22 18:35:05] Packets: 107    Status: NORMAL
+[2025-11-22 18:35:06] Packets: 9      Status: NORMAL
+[2025-11-22 18:35:07] Packets: 4      Status: NORMAL
+[2025-11-22 18:35:08] Packets: 8      Status: NORMAL
+[2025-11-22 18:35:09] Packets: 19     Status: NORMAL
+[2025-11-22 18:35:10] Packets: 10     Status: NORMAL
+[2025-11-22 18:35:11] Packets: 10     Status: NORMAL
+[2025-11-22 18:35:12] Packets: 19     Status: NORMAL
+[2025-11-22 18:35:13] Packets: 22     Status: NORMAL
+[2025-11-22 18:35:14] Packets: 21     Status: NORMAL
+[2025-11-22 18:35:15] Packets: 10     Status: NORMAL
+[2025-11-22 18:35:16] Packets: 13     Status: NORMAL
+[2025-11-22 18:35:17] Packets: 14     Status: NORMAL
+[2025-11-22 18:35:18] Packets: 12     Status: NORMAL
+[2025-11-22 18:35:19] Packets: 24     Status: NORMAL
+[2025-11-22 18:35:20] Packets: 14     Status: NORMAL
+[2025-11-22 18:35:21] Packets: 19     Status: NORMAL
+[2025-11-22 18:35:22] Packets: 23     Status: NORMAL
+[2025-11-22 18:35:23] Packets: 21     Status: NORMAL
+[2025-11-22 18:35:24] Packets: 28     Status: NORMAL
+[2025-11-22 18:35:25] Packets: 25     Status: NORMAL
+[2025-11-22 18:35:26] Packets: 18     Status: NORMAL
+[2025-11-22 18:35:27] Packets: 21     Status: NORMAL
+[2025-11-22 18:35:28] Packets: 36     Status: NORMAL
+[2025-11-22 18:35:29] Packets: 33     Status: NORMAL
+[2025-11-22 18:35:30] Packets: 33     Status: NORMAL
+[2025-11-22 18:35:31] Packets: 26     Status: NORMAL
+[2025-11-22 18:35:32] Packets: 33     Status: NORMAL
+[2025-11-22 18:35:33] Packets: 31     Status: NORMAL
+[2025-11-22 18:35:34] Packets: 51     Status: NORMAL
+[2025-11-22 18:35:35] Packets: 31     Status: NORMAL
+[2025-11-22 18:35:36] Packets: 37     Status: NORMAL
+[2025-11-22 18:35:37] Packets: 32     Status: NORMAL
+[2025-11-22 18:35:38] Packets: 27     Status: NORMAL
+[2025-11-22 18:35:39] Packets: 37     Status: NORMAL
+[2025-11-22 18:35:40] Packets: 30     Status: NORMAL
+[2025-11-22 18:35:41] Packets: 32     Status: NORMAL
+[2025-11-22 18:35:42] Packets: 73     Status: NORMAL
+[2025-11-22 18:35:43] Packets: 31     Status: NORMAL
+[2025-11-22 18:35:44] Packets: 36     Status: NORMAL
+[2025-11-22 18:35:45] Packets: 34     Status: NORMAL
+[2025-11-22 18:35:46] Packets: 17     Status: NORMAL
+[2025-11-22 18:35:47] Packets: 26     Status: NORMAL
+[2025-11-22 18:35:48] Packets: 39     Status: NORMAL
+[2025-11-22 18:35:49] Packets: 48     Status: NORMAL
+[2025-11-22 18:35:50] Packets: 27     Status: NORMAL
+[2025-11-22 18:35:51] Packets: 10     Status: NORMAL
+[2025-11-22 18:35:52] Packets: 16     Status: NORMAL
+[2025-11-22 18:35:53] Packets: 4      Status: NORMAL
+[2025-11-22 18:35:54] Packets: 9      Status: NORMAL
+[2025-11-22 18:35:55] Packets: 2      Status: NORMAL
+[2025-11-22 18:35:56] Packets: 1      Status: NORMAL
+[2025-11-22 18:35:57] Packets: 2      Status: NORMAL
+[2025-11-22 18:35:58] Packets: 0      Status: NORMAL
+[2025-11-22 18:35:59] Packets: 7      Status: NORMAL
+[2025-11-22 18:36:00] Packets: 2      Status: NORMAL
+[2025-11-22 18:36:01] Packets: 5      Status: NORMAL
+[2025-11-22 18:36:02] Packets: 2      Status: NORMAL
+[2025-11-22 18:36:03] Packets: 1      Status: NORMAL
+[2025-11-22 18:36:04] Packets: 3      Status: NORMAL
+[2025-11-22 18:36:05] Packets: 48     Status: NORMAL
+[2025-11-22 18:36:06] Packets: 18     Status: NORMAL
+[2025-11-22 18:36:07] Packets: 2      Status: NORMAL
+[2025-11-22 18:36:08] Packets: 2      Status: NORMAL
+[2025-11-22 18:36:09] Packets: 0      Status: NORMAL
+[2025-11-22 18:36:10] Packets: 2      Status: NORMAL
+[2025-11-22 18:36:11] Packets: 3      Status: NORMAL
+[2025-11-22 18:36:12] Packets: 8      Status: NORMAL
+[2025-11-22 18:36:13] Packets: 3      Status: NORMAL
+[2025-11-22 18:36:14] Packets: 4      Status: NORMAL
+[2025-11-22 18:36:15] Packets: 152    Status: NORMAL
+[2025-11-22 18:36:16] Packets: 82     Status: NORMAL
+[2025-11-22 18:36:17] Packets: 2      Status: NORMAL
+[2025-11-22 18:36:18] Packets: 1      Status: NORMAL
+[2025-11-22 18:36:19] Packets: 3      Status: NORMAL
+[2025-11-22 18:36:20] Packets: 25     Status: NORMAL
+[2025-11-22 18:36:21] Packets: 14     Status: NORMAL
+[2025-11-22 18:36:22] Packets: 22     Status: NORMAL
+[2025-11-22 18:36:23] Packets: 13     Status: NORMAL
+[2025-11-22 18:36:24] Packets: 10     Status: NORMAL
+[2025-11-22 18:36:25] Packets: 24     Status: NORMAL
+[2025-11-22 18:36:26] Packets: 18     Status: NORMAL
+[2025-11-22 18:36:27] Packets: 18     Status: NORMAL
+[2025-11-22 18:36:28] Packets: 9      Status: NORMAL
+[2025-11-22 18:36:29] Packets: 10     Status: NORMAL
+[2025-11-22 18:36:30] Packets: 296    Status: NORMAL
+[2025-11-22 18:36:31] Packets: 572    Status: NORMAL
+[2025-11-22 18:36:32] Packets: 22     Status: NORMAL
+[2025-11-22 18:36:33] Packets: 12     Status: NORMAL
+[2025-11-22 18:36:34] Packets: 16     Status: NORMAL
+[2025-11-22 18:36:35] Packets: 15     Status: NORMAL
+[2025-11-22 18:36:36] Packets: 14     Status: NORMAL
+[2025-11-22 18:36:37] Packets: 25     Status: NORMAL
+[2025-11-22 18:36:38] Packets: 13     Status: NORMAL
+[2025-11-22 18:36:39] Packets: 13     Status: NORMAL
+[2025-11-22 18:36:40] Packets: 14     Status: NORMAL
+[2025-11-22 18:36:41] Packets: 35     Status: NORMAL
+[2025-11-22 18:36:42] Packets: 14     Status: NORMAL
+[2025-11-22 18:36:43] Packets: 23     Status: NORMAL
+[2025-11-22 18:36:44] Packets: 29     Status: NORMAL
+[2025-11-22 18:36:45] Packets: 37     Status: NORMAL
+[2025-11-22 18:36:46] Packets: 33     Status: NORMAL
+[2025-11-22 18:36:47] Packets: 34     Status: NORMAL
+[2025-11-22 18:36:48] Packets: 28     Status: NORMAL
+[2025-11-22 18:36:49] Packets: 32     Status: NORMAL
+[2025-11-22 18:36:50] Packets: 31     Status: NORMAL
+[2025-11-22 18:36:51] Packets: 49     Status: NORMAL
+[2025-11-22 18:36:52] Packets: 30     Status: NORMAL
+[2025-11-22 18:36:53] Packets: 39     Status: NORMAL
+[2025-11-22 18:36:54] Packets: 34     Status: NORMAL
+[2025-11-22 18:36:55] Packets: 31     Status: NORMAL
+[2025-11-22 18:36:56] Packets: 47     Status: NORMAL
+[2025-11-22 18:36:57] Packets: 32     Status: NORMAL
+[2025-11-22 18:36:58] Packets: 35     Status: NORMAL
+[2025-11-22 18:36:59] Packets: 38     Status: NORMAL
+[2025-11-22 18:37:00] Packets: 33     Status: NORMAL
+[2025-11-22 18:37:01] Packets: 41     Status: NORMAL
+[2025-11-22 18:37:02] Packets: 61     Status: NORMAL
+[2025-11-22 18:37:03] Packets: 48     Status: NORMAL
+[2025-11-22 18:37:04] Packets: 53     Status: NORMAL
+[2025-11-22 18:37:05] Packets: 45     Status: NORMAL
+[2025-11-22 18:37:06] Packets: 56     Status: NORMAL
+[2025-11-22 18:37:07] Packets: 20     Status: NORMAL
+[2025-11-22 18:37:08] Packets: 10     Status: NORMAL
+[2025-11-22 18:37:09] Packets: 2      Status: NORMAL
+[2025-11-22 18:37:10] Packets: 1      Status: NORMAL
+[2025-11-22 18:37:11] Packets: 1      Status: NORMAL
+[2025-11-22 18:37:12] Packets: 1      Status: NORMAL
+[2025-11-22 18:37:13] Packets: 7      Status: NORMAL
+[2025-11-22 18:37:14] Packets: 1      Status: NORMAL
+[2025-11-22 18:37:15] Packets: 2      Status: NORMAL
+[2025-11-22 18:37:16] Packets: 2      Status: NORMAL
+[2025-11-22 18:37:17] Packets: 10     Status: NORMAL
+[2025-11-22 18:37:18] Packets: 2      Status: NORMAL
+[2025-11-22 18:37:19] Packets: 1      Status: NORMAL
+[2025-11-22 18:37:20] Packets: 4      Status: NORMAL
+[2025-11-22 18:37:21] Packets: 4      Status: NORMAL
+[2025-11-22 18:37:22] Packets: 5      Status: NORMAL
+[2025-11-22 18:37:23] Packets: 2      Status: NORMAL
+[2025-11-22 18:37:24] Packets: 1      Status: NORMAL
+[2025-11-22 18:37:25] Packets: 56     Status: NORMAL
+[2025-11-22 18:37:26] Packets: 2      Status: NORMAL
+[2025-11-22 18:37:27] Packets: 1      Status: NORMAL
+[2025-11-22 18:37:28] Packets: 1      Status: NORMAL
+[2025-11-22 18:37:29] Packets: 20     Status: NORMAL
+[2025-11-22 18:37:30] Packets: 13     Status: NORMAL
+[2025-11-22 18:37:31] Packets: 269    Status: NORMAL
+[2025-11-22 18:37:32] Packets: 2      Status: NORMAL
+[2025-11-22 18:37:33] Packets: 3      Status: NORMAL
+[2025-11-22 18:37:34] Packets: 1      Status: NORMAL
+[2025-11-22 18:37:35] Packets: 7      Status: NORMAL
+[2025-11-22 18:37:36] Packets: 20     Status: NORMAL
+[2025-11-22 18:37:37] Packets: 8      Status: NORMAL
+[2025-11-22 18:37:38] Packets: 6      Status: NORMAL
+[2025-11-22 18:37:39] Packets: 21     Status: NORMAL
+[2025-11-22 18:37:40] Packets: 11     Status: NORMAL
+[2025-11-22 18:37:41] Packets: 22     Status: NORMAL
+[2025-11-22 18:37:42] Packets: 14     Status: NORMAL
+[2025-11-22 18:37:43] Packets: 10     Status: NORMAL
+[2025-11-22 18:37:44] Packets: 24     Status: NORMAL
+[2025-11-22 18:37:45] Packets: 12     Status: NORMAL
+[2025-11-22 18:37:46] Packets: 10     Status: NORMAL
+[2025-11-22 18:37:47] Packets: 23     Status: NORMAL
+[2025-11-22 18:37:48] Packets: 8      Status: NORMAL
+[2025-11-22 18:37:49] Packets: 15     Status: NORMAL
+[2025-11-22 18:37:50] Packets: 19     Status: NORMAL
+[2025-11-22 18:37:51] Packets: 11     Status: NORMAL
+[2025-11-22 18:37:52] Packets: 14     Status: NORMAL
+[2025-11-22 18:37:53] Packets: 19     Status: NORMAL
+[2025-11-22 18:37:54] Packets: 10     Status: NORMAL
+[2025-11-22 18:37:55] Packets: 16     Status: NORMAL
+[2025-11-22 18:37:56] Packets: 10     Status: NORMAL
+[2025-11-22 18:37:57] Packets: 9      Status: NORMAL
+[2025-11-22 18:37:58] Packets: 19     Status: NORMAL
+[2025-11-22 18:37:59] Packets: 17     Status: NORMAL
+[2025-11-22 18:38:00] Packets: 10     Status: NORMAL
+[2025-11-22 18:38:01] Packets: 18     Status: NORMAL
+[2025-11-22 18:38:02] Packets: 17     Status: NORMAL
+[2025-11-22 18:38:03] Packets: 34     Status: NORMAL
+[2025-11-22 18:38:04] Packets: 25     Status: NORMAL
+[2025-11-22 18:38:05] Packets: 55     Status: NORMAL
+[2025-11-22 18:38:06] Packets: 32     Status: NORMAL
+[2025-11-22 18:38:07] Packets: 32     Status: NORMAL
+[2025-11-22 18:38:08] Packets: 76     Status: NORMAL
+[2025-11-22 18:38:09] Packets: 58     Status: NORMAL
+[2025-11-22 18:38:10] Packets: 50     Status: NORMAL
+[2025-11-22 18:38:11] Packets: 26     Status: NORMAL
+[2025-11-22 18:38:12] Packets: 23     Status: NORMAL
+[2025-11-22 18:38:13] Packets: 44     Status: NORMAL
+[2025-11-22 18:38:14] Packets: 29     Status: NORMAL
+[2025-11-22 18:38:15] Packets: 122    Status: NORMAL
+[2025-11-22 18:38:16] Packets: 173    Status: NORMAL
+[2025-11-22 18:38:17] Packets: 58     Status: NORMAL
+[2025-11-22 18:38:18] Packets: 70     Status: NORMAL
+[2025-11-22 18:38:19] Packets: 69     Status: NORMAL
+[2025-11-22 18:38:20] Packets: 59     Status: NORMAL
+[2025-11-22 18:38:21] Packets: 70     Status: NORMAL
+[2025-11-22 18:38:22] Packets: 61     Status: NORMAL
+[2025-11-22 18:38:23] Packets: 48     Status: NORMAL
+[2025-11-22 18:38:24] Packets: 63     Status: NORMAL
+[2025-11-22 18:38:25] Packets: 198    Status: NORMAL
+[2025-11-22 18:38:26] Packets: 94     Status: NORMAL
+[2025-11-22 18:38:27] Packets: 56     Status: NORMAL
+[2025-11-22 18:38:28] Packets: 65     Status: NORMAL
+[2025-11-22 18:38:29] Packets: 86     Status: NORMAL
+[2025-11-22 18:38:30] Packets: 66     Status: NORMAL
+[2025-11-22 18:38:31] Packets: 80     Status: NORMAL
+[2025-11-22 18:38:32] Packets: 83     Status: NORMAL
+[2025-11-22 18:38:33] Packets: 76     Status: NORMAL
+[2025-11-22 18:38:34] Packets: 81     Status: NORMAL
+[2025-11-22 18:38:35] Packets: 103    Status: NORMAL
+[2025-11-22 18:38:36] Packets: 135    Status: NORMAL
+[2025-11-22 18:38:37] Packets: 102    Status: NORMAL
+[2025-11-22 18:38:38] Packets: 93     Status: NORMAL
+[2025-11-22 18:38:39] Packets: 105    Status: NORMAL
+[2025-11-22 18:38:40] Packets: 74     Status: NORMAL
+[2025-11-22 18:38:41] Packets: 103    Status: NORMAL
+[2025-11-22 18:38:42] Packets: 69     Status: NORMAL
+[2025-11-22 18:38:43] Packets: 77     Status: NORMAL
+[2025-11-22 18:38:44] Packets: 117    Status: NORMAL
+[2025-11-22 18:38:45] Packets: 78     Status: NORMAL
+[2025-11-22 18:38:46] Packets: 93     Status: NORMAL
+[2025-11-22 18:38:47] Packets: 18     Status: NORMAL
+[2025-11-22 18:38:48] Packets: 9      Status: NORMAL
+[2025-11-22 18:38:49] Packets: 6      Status: NORMAL
+[2025-11-22 18:38:50] Packets: 10     Status: NORMAL
+[2025-11-22 18:38:51] Packets: 43     Status: NORMAL
+[2025-11-22 18:38:52] Packets: 13     Status: NORMAL
+[2025-11-22 18:38:53] Packets: 12     Status: NORMAL
+[2025-11-22 18:38:54] Packets: 9      Status: NORMAL
+[2025-11-22 18:38:55] Packets: 12     Status: NORMAL
+[2025-11-22 18:38:56] Packets: 5      Status: NORMAL
+[2025-11-22 18:38:57] Packets: 21     Status: NORMAL
+[2025-11-22 18:38:58] Packets: 15     Status: NORMAL
+[2025-11-22 18:38:59] Packets: 14     Status: NORMAL
+[2025-11-22 18:39:00] Packets: 34     Status: NORMAL
+[2025-11-22 18:39:01] Packets: 19     Status: NORMAL
+[2025-11-22 18:39:02] Packets: 12     Status: NORMAL
+[2025-11-22 18:39:03] Packets: 27     Status: NORMAL
+[2025-11-22 18:39:04] Packets: 49     Status: NORMAL
+[2025-11-22 18:39:05] Packets: 42     Status: NORMAL
+[2025-11-22 18:39:06] Packets: 15     Status: NORMAL
+[2025-11-22 18:39:07] Packets: 43     Status: NORMAL
+[2025-11-22 18:39:08] Packets: 184    Status: NORMAL
+[2025-11-22 18:39:09] Packets: 64     Status: NORMAL
+[2025-11-22 18:39:10] Packets: 16     Status: NORMAL
+[2025-11-22 18:39:11] Packets: 13     Status: NORMAL
+[2025-11-22 18:39:12] Packets: 21     Status: NORMAL
+[2025-11-22 18:39:13] Packets: 17     Status: NORMAL
+[2025-11-22 18:39:14] Packets: 19     Status: NORMAL
+[2025-11-22 18:39:15] Packets: 27     Status: NORMAL
+[2025-11-22 18:39:16] Packets: 15     Status: NORMAL
+[2025-11-22 18:39:17] Packets: 9      Status: NORMAL
+[2025-11-22 18:39:18] Packets: 13     Status: NORMAL
+[2025-11-22 18:39:19] Packets: 35     Status: NORMAL
+[2025-11-22 18:39:20] Packets: 26     Status: NORMAL
+[2025-11-22 18:39:21] Packets: 18     Status: NORMAL
+[2025-11-22 18:39:22] Packets: 14     Status: NORMAL
+[2025-11-22 18:39:23] Packets: 18     Status: NORMAL
+[2025-11-22 18:39:24] Packets: 9      Status: NORMAL
+[2025-11-22 18:39:25] Packets: 14     Status: NORMAL
+[2025-11-22 18:39:26] Packets: 16     Status: NORMAL
+[2025-11-22 18:39:27] Packets: 9      Status: NORMAL
+[2025-11-22 18:39:28] Packets: 25     Status: NORMAL
+[2025-11-22 18:39:29] Packets: 24     Status: NORMAL
+[2025-11-22 18:39:30] Packets: 12     Status: NORMAL
+[2025-11-22 18:39:31] Packets: 9      Status: NORMAL
+[2025-11-22 18:39:32] Packets: 10     Status: NORMAL
+[2025-11-22 18:39:33] Packets: 10     Status: NORMAL
+[2025-11-22 18:39:34] Packets: 9      Status: NORMAL
+[2025-11-22 18:39:35] Packets: 14     Status: NORMAL
+[2025-11-22 18:39:36] Packets: 14     Status: NORMAL
+[2025-11-22 18:39:37] Packets: 13     Status: NORMAL
+[2025-11-22 18:39:38] Packets: 74     Status: NORMAL
+[2025-11-22 18:39:39] Packets: 38     Status: NORMAL
+[2025-11-22 18:39:40] Packets: 10     Status: NORMAL
+[2025-11-22 18:39:41] Packets: 11     Status: NORMAL
+[2025-11-22 18:39:42] Packets: 9      Status: NORMAL
+[2025-11-22 18:39:43] Packets: 14     Status: NORMAL
+[2025-11-22 18:39:44] Packets: 9      Status: NORMAL
+[2025-11-22 18:39:45] Packets: 17     Status: NORMAL
+[2025-11-22 18:39:46] Packets: 17     Status: NORMAL
+[2025-11-22 18:39:47] Packets: 19     Status: NORMAL
+[2025-11-22 18:39:48] Packets: 33     Status: NORMAL
+[2025-11-22 18:39:49] Packets: 9      Status: NORMAL
+[2025-11-22 18:39:50] Packets: 9      Status: NORMAL
+[2025-11-22 18:39:51] Packets: 9      Status: NORMAL
+[2025-11-22 18:39:52] Packets: 12     Status: NORMAL
+[2025-11-22 18:39:53] Packets: 11     Status: NORMAL
+[2025-11-22 18:39:54] Packets: 11     Status: NORMAL
+[2025-11-22 18:39:55] Packets: 4      Status: NORMAL
+[2025-11-22 18:39:56] Packets: 10     Status: NORMAL
+[2025-11-22 18:39:57] Packets: 50     Status: NORMAL
+[2025-11-22 18:39:58] Packets: 166    Status: NORMAL
+[2025-11-22 18:39:59] Packets: 15     Status: NORMAL
+[2025-11-22 18:40:00] Packets: 20     Status: NORMAL
+[2025-11-22 18:40:01] Packets: 22     Status: NORMAL
+[2025-11-22 18:40:02] Packets: 5      Status: NORMAL
+[2025-11-22 18:40:03] Packets: 3      Status: NORMAL
+[2025-11-22 18:40:04] Packets: 43     Status: NORMAL
+[2025-11-22 18:40:05] Packets: 5      Status: NORMAL
+[2025-11-22 18:40:06] Packets: 2      Status: NORMAL
+[2025-11-22 18:40:07] Packets: 10     Status: NORMAL
+[2025-11-22 18:40:08] Packets: 29     Status: NORMAL
+[2025-11-22 18:40:09] Packets: 19     Status: NORMAL
+[2025-11-22 18:40:10] Packets: 10     Status: NORMAL
+[2025-11-22 18:40:11] Packets: 81     Status: NORMAL
+[2025-11-22 18:40:12] Packets: 45     Status: NORMAL
+[2025-11-22 18:40:13] Packets: 71     Status: NORMAL
+[2025-11-22 18:40:14] Packets: 13     Status: NORMAL
+[2025-11-22 18:40:15] Packets: 4      Status: NORMAL
+[2025-11-22 18:40:16] Packets: 13     Status: NORMAL
+[2025-11-22 18:40:17] Packets: 10     Status: NORMAL
+[2025-11-22 18:40:18] Packets: 9      Status: NORMAL
+[2025-11-22 18:40:19] Packets: 24     Status: NORMAL
+[2025-11-22 18:40:20] Packets: 13     Status: NORMAL
+[2025-11-22 18:40:21] Packets: 12     Status: NORMAL
+[2025-11-22 18:40:22] Packets: 19     Status: NORMAL
+[2025-11-22 18:40:23] Packets: 16     Status: NORMAL
+[2025-11-22 18:40:24] Packets: 34     Status: NORMAL
+[2025-11-22 18:40:25] Packets: 16     Status: NORMAL
+[2025-11-22 18:40:26] Packets: 46     Status: NORMAL
+[2025-11-22 18:40:27] Packets: 32     Status: NORMAL
+[2025-11-22 18:40:28] Packets: 11     Status: NORMAL
+[2025-11-22 18:40:29] Packets: 15     Status: NORMAL
+[2025-11-22 18:40:30] Packets: 12     Status: NORMAL
+[2025-11-22 18:40:31] Packets: 10     Status: NORMAL
+[2025-11-22 18:40:32] Packets: 12     Status: NORMAL
+[2025-11-22 18:40:33] Packets: 11     Status: NORMAL
+[2025-11-22 18:40:34] Packets: 31     Status: NORMAL
+[2025-11-22 18:40:35] Packets: 11     Status: NORMAL
+[2025-11-22 18:40:36] Packets: 9      Status: NORMAL
+[2025-11-22 18:40:37] Packets: 10     Status: NORMAL
+[2025-11-22 18:40:38] Packets: 13     Status: NORMAL
+[2025-11-22 18:40:39] Packets: 11     Status: NORMAL
+[2025-11-22 18:40:40] Packets: 13     Status: NORMAL
+[2025-11-22 18:40:41] Packets: 10     Status: NORMAL
+[2025-11-22 18:40:42] Packets: 42     Status: NORMAL
+[2025-11-22 18:40:43] Packets: 6      Status: NORMAL
+[2025-11-22 18:40:44] Packets: 15     Status: NORMAL
+[2025-11-22 18:40:45] Packets: 17     Status: NORMAL
+[2025-11-22 18:40:46] Packets: 9      Status: NORMAL
+[2025-11-22 18:40:47] Packets: 17     Status: NORMAL
+[2025-11-22 18:40:48] Packets: 15     Status: NORMAL
+[2025-11-22 18:40:49] Packets: 9      Status: NORMAL
+[2025-11-22 18:40:50] Packets: 13     Status: NORMAL
+[2025-11-22 18:40:51] Packets: 11     Status: NORMAL
+[2025-11-22 18:40:52] Packets: 8      Status: NORMAL
+[2025-11-22 18:40:53] Packets: 12     Status: NORMAL
+[2025-11-22 18:40:54] Packets: 11     Status: NORMAL
+[2025-11-22 18:40:55] Packets: 8      Status: NORMAL
+[2025-11-22 18:40:56] Packets: 10     Status: NORMAL
+[2025-11-22 18:40:57] Packets: 10     Status: NORMAL
+[2025-11-22 18:40:58] Packets: 11     Status: NORMAL
+[2025-11-22 18:40:59] Packets: 12     Status: NORMAL
+[2025-11-22 18:41:00] Packets: 8      Status: NORMAL
+[2025-11-22 18:41:01] Packets: 15     Status: NORMAL
+[2025-11-22 18:41:02] Packets: 12     Status: NORMAL
+[2025-11-22 18:41:03] Packets: 12     Status: NORMAL
+[2025-11-22 18:41:04] Packets: 20     Status: NORMAL
+[2025-11-22 18:41:05] Packets: 9      Status: NORMAL
+[2025-11-22 18:41:06] Packets: 15     Status: NORMAL
+[2025-11-22 18:41:07] Packets: 45     Status: NORMAL
+[2025-11-22 18:41:08] Packets: 18     Status: NORMAL
+[2025-11-22 18:41:09] Packets: 15     Status: NORMAL
+[2025-11-22 18:41:10] Packets: 11     Status: NORMAL
+[2025-11-22 18:41:11] Packets: 11     Status: NORMAL
+[2025-11-22 18:41:12] Packets: 14     Status: NORMAL
+[2025-11-22 18:41:13] Packets: 16     Status: NORMAL
+[2025-11-22 18:41:14] Packets: 10     Status: NORMAL
+[2025-11-22 18:41:15] Packets: 12     Status: NORMAL
+[2025-11-22 18:41:16] Packets: 15     Status: NORMAL
+[2025-11-22 18:41:17] Packets: 53     Status: NORMAL
+[2025-11-22 18:41:18] Packets: 171    Status: NORMAL
+[2025-11-22 18:41:19] Packets: 30     Status: NORMAL
+[2025-11-22 18:41:20] Packets: 1      Status: NORMAL
+[2025-11-22 18:41:21] Packets: 16     Status: NORMAL
+[2025-11-22 18:41:22] Packets: 23     Status: NORMAL
+[2025-11-22 18:41:23] Packets: 28     Status: NORMAL
+[2025-11-22 18:41:24] Packets: 1      Status: NORMAL
+[2025-11-22 18:41:25] Packets: 3      Status: NORMAL
+[2025-11-22 18:41:26] Packets: 58     Status: NORMAL
+[2025-11-22 18:41:27] Packets: 41     Status: NORMAL
+[2025-11-22 18:41:28] Packets: 0      Status: NORMAL
+[2025-11-22 18:41:29] Packets: 7      Status: NORMAL
+[2025-11-22 18:41:30] Packets: 1      Status: NORMAL
+[2025-11-22 18:41:31] Packets: 18     Status: NORMAL
+[2025-11-22 18:41:32] Packets: 23     Status: NORMAL
+[2025-11-22 18:41:33] Packets: 37     Status: NORMAL
+[2025-11-22 18:41:34] Packets: 12     Status: NORMAL
+[2025-11-22 18:41:35] Packets: 6      Status: NORMAL
+[2025-11-22 18:41:36] Packets: 12     Status: NORMAL
+[2025-11-22 18:41:37] Packets: 26     Status: NORMAL
+[2025-11-22 18:41:38] Packets: 11     Status: NORMAL
+[2025-11-22 18:41:39] Packets: 11     Status: NORMAL
+[2025-11-22 18:41:40] Packets: 9      Status: NORMAL
+[2025-11-22 18:41:41] Packets: 58     Status: NORMAL
+[2025-11-22 18:41:42] Packets: 44     Status: NORMAL
+[2025-11-22 18:41:43] Packets: 14     Status: NORMAL
+[2025-11-22 18:41:44] Packets: 10     Status: NORMAL
+[2025-11-22 18:41:45] Packets: 16     Status: NORMAL
+[2025-11-22 18:41:46] Packets: 10     Status: NORMAL
+[2025-11-22 18:41:47] Packets: 20     Status: NORMAL
+[2025-11-22 18:41:48] Packets: 27     Status: NORMAL
+[2025-11-22 18:41:49] Packets: 11     Status: NORMAL
+[2025-11-22 18:41:50] Packets: 11     Status: NORMAL
+[2025-11-22 18:41:51] Packets: 12     Status: NORMAL
+[2025-11-22 18:41:52] Packets: 9      Status: NORMAL
+[2025-11-22 18:41:53] Packets: 12     Status: NORMAL
+[2025-11-22 18:41:54] Packets: 253    Status: NORMAL
+[2025-11-22 18:41:55] Packets: 37     Status: NORMAL
+[2025-11-22 18:41:56] Packets: 43     Status: NORMAL
+[2025-11-22 18:41:57] Packets: 11     Status: NORMAL
+[2025-11-22 18:41:58] Packets: 9      Status: NORMAL
+[2025-11-22 18:41:59] Packets: 16     Status: NORMAL
+[2025-11-22 18:42:00] Packets: 10     Status: NORMAL
+[2025-11-22 18:42:01] Packets: 51     Status: NORMAL
+[2025-11-22 18:42:02] Packets: 178    Status: NORMAL
+[2025-11-22 18:42:03] Packets: 20     Status: NORMAL
+[2025-11-22 18:42:04] Packets: 14     Status: NORMAL
+[2025-11-22 18:42:05] Packets: 10     Status: NORMAL
+[2025-11-22 18:42:06] Packets: 1      Status: NORMAL
+[2025-11-22 18:42:07] Packets: 1      Status: NORMAL
+[2025-11-22 18:42:08] Packets: 7      Status: NORMAL
+[2025-11-22 18:42:09] Packets: 10     Status: NORMAL
+[2025-11-22 18:42:10] Packets: 14     Status: NORMAL
+[2025-11-22 18:42:11] Packets: 12     Status: NORMAL
+[2025-11-22 18:42:12] Packets: 0      Status: NORMAL
+[2025-11-22 18:42:13] Packets: 4      Status: NORMAL
+[2025-11-22 18:42:14] Packets: 4      Status: NORMAL
+[2025-11-22 18:42:15] Packets: 1      Status: NORMAL
+[2025-11-22 18:42:16] Packets: 1      Status: NORMAL
+[2025-11-22 18:42:17] Packets: 2      Status: NORMAL
+[2025-11-22 18:42:18] Packets: 0      Status: NORMAL
+[2025-11-22 18:42:19] Packets: 1      Status: NORMAL
+[2025-11-22 18:42:20] Packets: 2      Status: NORMAL
+[2025-11-22 18:42:21] Packets: 22     Status: NORMAL
+[2025-11-22 18:42:22] Packets: 6      Status: NORMAL
+[2025-11-22 18:42:23] Packets: 46     Status: NORMAL
+[2025-11-22 18:42:24] Packets: 3      Status: NORMAL
+[2025-11-22 18:42:25] Packets: 2      Status: NORMAL
+[2025-11-22 18:42:26] Packets: 3      Status: NORMAL
+[2025-11-22 18:42:27] Packets: 24     Status: NORMAL
+[2025-11-22 18:42:28] Packets: 10     Status: NORMAL
+[2025-11-22 18:42:29] Packets: 1      Status: NORMAL
+[2025-11-22 18:42:30] Packets: 1      Status: NORMAL
+[2025-11-22 18:42:31] Packets: 31     Status: NORMAL
+[2025-11-22 18:42:32] Packets: 8      Status: NORMAL
+[2025-11-22 18:42:33] Packets: 0      Status: NORMAL
+[2025-11-22 18:42:34] Packets: 4      Status: NORMAL
+[2025-11-22 18:42:35] Packets: 1      Status: NORMAL
+[2025-11-22 18:42:36] Packets: 107    Status: NORMAL
+[2025-11-22 18:42:37] Packets: 95     Status: NORMAL
+[2025-11-22 18:42:38] Packets: 114    Status: NORMAL
+[2025-11-22 18:42:39] Packets: 229    Status: NORMAL
+[2025-11-22 18:42:40] Packets: 80     Status: NORMAL
+[2025-11-22 18:42:41] Packets: 3      Status: NORMAL
+[2025-11-22 18:42:42] Packets: 301    Status: NORMAL
+[2025-11-22 18:42:43] Packets: 87     Status: NORMAL
+[2025-11-22 18:42:44] Packets: 111    Status: NORMAL
+[2025-11-22 18:42:45] Packets: 2      Status: NORMAL
+[2025-11-22 18:42:45] Packets: 14     Status: NORMAL
+[2025-11-22 18:42:46] Packets: 33     Status: NORMAL
+[2025-11-22 18:42:46] Packets: 34     Status: NORMAL
+[2025-11-22 18:42:47] Packets: 13     Status: NORMAL
+[2025-11-22 18:42:47] Packets: 12     Status: NORMAL
+[2025-11-22 18:42:48] Packets: 41     Status: NORMAL
+[2025-11-22 18:42:48] Packets: 41     Status: NORMAL
+[2025-11-22 18:42:49] Packets: 33     Status: NORMAL
+[2025-11-22 18:42:49] Packets: 52     Status: NORMAL
+[2025-11-22 18:42:50] Packets: 433    Status: NORMAL
+[2025-11-22 18:42:50] Packets: 450    Status: NORMAL
+[2025-11-22 18:42:51] Packets: 539    Status: NORMAL
+[2025-11-22 18:42:51] Packets: 547    Status: NORMAL
+[2025-11-22 18:42:52] Packets: 24     Status: NORMAL
+[2025-11-22 18:42:52] Packets: 14     Status: NORMAL
+[2025-11-22 18:42:53] Packets: 26     Status: NORMAL
+[2025-11-22 18:42:53] Packets: 26     Status: NORMAL
+[2025-11-22 18:42:54] Packets: 12     Status: NORMAL
+[2025-11-22 18:42:54] Packets: 12     Status: NORMAL
+[2025-11-22 18:42:55] Packets: 14     Status: NORMAL
+[2025-11-22 18:42:55] Packets: 14     Status: NORMAL
+[2025-11-22 18:42:56] Packets: 1      Status: NORMAL
+[2025-11-22 18:42:57] Packets: 0      Status: NORMAL
+[2025-11-22 18:42:58] Packets: 80     Status: NORMAL
+[2025-11-22 18:42:59] Packets: 281    Status: NORMAL
+[2025-11-22 18:43:00] Packets: 2      Status: NORMAL
+[2025-11-22 18:43:01] Packets: 285    Status: NORMAL
+[2025-11-22 18:43:02] Packets: 22     Status: NORMAL
+[2025-11-22 18:43:03] Packets: 46     Status: NORMAL
+[2025-11-22 18:43:04] Packets: 286    Status: NORMAL
+[2025-11-22 18:43:05] Packets: 13     Status: NORMAL
+[2025-11-22 18:43:06] Packets: 2      Status: NORMAL
+[2025-11-22 18:43:07] Packets: 1      Status: NORMAL
+[2025-11-22 18:43:08] Packets: 6      Status: NORMAL
+[2025-11-22 18:43:09] Packets: 88     Status: NORMAL
+[2025-11-22 18:43:10] Packets: 1      Status: NORMAL
+[2025-11-22 18:43:11] Packets: 1      Status: NORMAL
+[2025-11-22 18:43:12] Packets: 0      Status: NORMAL
+[2025-11-22 18:43:13] Packets: 4      Status: NORMAL
+[2025-11-22 18:43:14] Packets: 4      Status: NORMAL
+[2025-11-22 18:43:15] Packets: 1      Status: NORMAL
+[2025-11-22 18:43:16] Packets: 5      Status: NORMAL
+[2025-11-22 18:43:17] Packets: 3      Status: NORMAL
+[2025-11-22 18:43:18] Packets: 0      Status: NORMAL
+[2025-11-22 18:43:19] Packets: 0      Status: NORMAL
+[2025-11-22 18:43:20] Packets: 1      Status: NORMAL
+[2025-11-22 18:43:21] Packets: 1      Status: NORMAL
+[2025-11-22 18:43:22] Packets: 5      Status: NORMAL
+[2025-11-22 18:43:23] Packets: 3      Status: NORMAL
+[2025-11-22 18:43:24] Packets: 3      Status: NORMAL
+[2025-11-22 18:43:25] Packets: 0      Status: NORMAL
+[2025-11-22 18:43:26] Packets: 1      Status: NORMAL
+[2025-11-22 18:43:27] Packets: 1      Status: NORMAL
+[2025-11-22 18:43:28] Packets: 1      Status: NORMAL
+[2025-11-22 18:43:29] Packets: 2      Status: NORMAL
+[2025-11-22 18:43:30] Packets: 0      Status: NORMAL
+[2025-11-22 18:43:31] Packets: 0      Status: NORMAL
+[2025-11-22 18:43:32] Packets: 1      Status: NORMAL
+[2025-11-22 18:43:33] Packets: 2      Status: NORMAL
+[2025-11-22 18:43:34] Packets: 235    Status: NORMAL
+[2025-11-22 18:43:35] Packets: 1      Status: NORMAL
+[2025-11-22 18:43:36] Packets: 0      Status: NORMAL
+[2025-11-22 18:43:37] Packets: 5      Status: NORMAL
+[2025-11-22 18:43:38] Packets: 3      Status: NORMAL
+[2025-11-22 18:43:39] Packets: 276    Status: NORMAL
+[2025-11-22 18:43:40] Packets: 93     Status: NORMAL
+[2025-11-22 18:43:41] Packets: 2      Status: NORMAL
+[2025-11-22 18:43:42] Packets: 6      Status: NORMAL
+[2025-11-22 18:43:43] Packets: 2      Status: NORMAL
+[2025-11-22 18:43:44] Packets: 348    Status: NORMAL
+[2025-11-22 18:43:45] Packets: 21     Status: NORMAL
+[2025-11-22 18:43:46] Packets: 2      Status: NORMAL
+[2025-11-22 18:43:47] Packets: 1      Status: NORMAL
+[2025-11-22 18:43:48] Packets: 6      Status: NORMAL
+[2025-11-22 18:43:49] Packets: 88     Status: NORMAL
+[2025-11-22 18:43:50] Packets: 9      Status: NORMAL
+[2025-11-22 18:43:51] Packets: 0      Status: NORMAL
+[2025-11-22 18:43:52] Packets: 0      Status: NORMAL
+[2025-11-22 18:43:53] Packets: 3      Status: NORMAL
+[2025-11-22 18:43:54] Packets: 1      Status: NORMAL
+[2025-11-22 18:43:55] Packets: 5      Status: NORMAL
+[2025-11-22 18:43:56] Packets: 5      Status: NORMAL
+[2025-11-22 18:43:57] Packets: 8      Status: NORMAL
+[2025-11-22 18:43:58] Packets: 0      Status: NORMAL
+[2025-11-22 18:43:59] Packets: 8      Status: NORMAL
+[2025-11-22 18:44:00] Packets: 2      Status: NORMAL
+[2025-11-22 18:44:01] Packets: 3      Status: NORMAL
+[2025-11-22 18:44:02] Packets: 12     Status: NORMAL
+[2025-11-22 18:44:03] Packets: 92     Status: NORMAL
+[2025-11-22 18:44:04] Packets: 48     Status: NORMAL
+[2025-11-22 18:44:05] Packets: 35     Status: NORMAL
+[2025-11-22 18:44:06] Packets: 7      Status: NORMAL
+[2025-11-22 18:44:07] Packets: 1      Status: NORMAL
+[2025-11-22 18:46:24] Packets: 1      Status: NORMAL
+[2025-11-22 18:46:25] Packets: 17     Status: NORMAL
+[2025-11-22 18:46:26] Packets: 30     Status: NORMAL
+[2025-11-22 18:46:27] Packets: 15     Status: NORMAL
+[2025-11-22 18:46:28] Packets: 16     Status: NORMAL
+[2025-11-22 18:46:29] Packets: 19     Status: NORMAL
+[2025-11-22 18:46:30] Packets: 15     Status: NORMAL
+[2025-11-22 18:46:31] Packets: 17     Status: NORMAL
+[2025-11-22 18:46:32] Packets: 17     Status: NORMAL
+[2025-11-22 18:46:33] Packets: 2      Status: NORMAL
+[2025-11-22 18:46:34] Packets: 16     Status: NORMAL
+[2025-11-22 22:44:17] Packets: 1      Status: NORMAL
+[2025-11-22 22:44:18] Packets: 2      Status: NORMAL
+[2025-11-22 22:44:19] Packets: 18     Status: NORMAL
+[2025-11-22 22:44:20] Packets: 4      Status: NORMAL
+[2025-11-22 22:44:21] Packets: 5      Status: NORMAL
+[2025-11-22 22:44:22] Packets: 10     Status: NORMAL
+[2025-11-22 22:44:23] Packets: 15     Status: NORMAL
+[2025-11-22 22:44:24] Packets: 12     Status: NORMAL
+[2025-11-22 22:44:25] Packets: 738    Status: NORMAL
+[2025-11-22 22:44:26] Packets: 181    Status: NORMAL
+[2025-11-22 22:44:27] Packets: 3      Status: NORMAL
+[2025-11-22 22:44:28] Packets: 7      Status: NORMAL
+[2025-11-22 22:44:29] Packets: 4      Status: NORMAL
+[2025-11-22 22:44:30] Packets: 8      Status: NORMAL
+[2025-11-22 22:44:31] Packets: 9      Status: NORMAL
+[2025-11-22 22:44:32] Packets: 1      Status: NORMAL
+[2025-11-22 22:44:33] Packets: 1      Status: NORMAL
+[2025-11-22 22:44:34] Packets: 0      Status: NORMAL
+[2025-11-22 22:44:35] Packets: 815    Status: NORMAL
+[2025-11-22 22:44:36] Packets: 16     Status: NORMAL
+[2025-11-22 22:44:37] Packets: 1      Status: NORMAL
+[2025-11-22 22:44:38] Packets: 7      Status: NORMAL
+[2025-11-22 22:44:39] Packets: 5      Status: NORMAL
+[2025-11-22 22:44:40] Packets: 23     Status: NORMAL
+[2025-11-22 22:44:41] Packets: 1      Status: NORMAL
+[2025-11-22 22:44:42] Packets: 1      Status: NORMAL
+[2025-11-22 22:44:43] Packets: 2      Status: NORMAL
+[2025-11-22 22:44:44] Packets: 20     Status: NORMAL
+[2025-11-22 22:44:45] Packets: 18     Status: NORMAL
+[2025-11-22 22:44:46] Packets: 3      Status: NORMAL
+[2025-11-22 22:44:47] Packets: 25     Status: NORMAL
+[2025-11-22 22:44:48] Packets: 16     Status: NORMAL
+[2025-11-22 22:44:49] Packets: 18     Status: NORMAL
+[2025-11-22 22:44:50] Packets: 17     Status: NORMAL
+[2025-11-22 22:44:51] Packets: 13     Status: NORMAL
+[2025-11-22 22:44:52] Packets: 33     Status: NORMAL
+[2025-11-22 22:44:53] Packets: 11     Status: NORMAL
+[2025-11-22 22:44:54] Packets: 1      Status: NORMAL
+[2025-11-22 22:44:55] Packets: 5      Status: NORMAL
+[2025-11-22 22:44:56] Packets: 8      Status: NORMAL
+[2025-11-22 22:44:57] Packets: 0      Status: NORMAL
+[2025-11-22 22:44:58] Packets: 12     Status: NORMAL
+[2025-11-22 22:44:59] Packets: 79     Status: NORMAL
+[2025-11-22 22:45:00] Packets: 57     Status: NORMAL
+[2025-11-22 22:45:01] Packets: 6      Status: NORMAL
+[2025-11-22 22:45:02] Packets: 5      Status: NORMAL
+[2025-11-22 22:45:03] Packets: 3      Status: NORMAL
+[2025-11-22 22:45:04] Packets: 1      Status: NORMAL
+[2025-11-22 22:45:05] Packets: 1      Status: NORMAL
+[2025-11-22 22:45:06] Packets: 1      Status: NORMAL
+[2025-11-22 22:45:07] Packets: 2      Status: NORMAL
+[2025-11-22 22:45:08] Packets: 17     Status: NORMAL
+[2025-11-22 22:45:09] Packets: 4      Status: NORMAL
+[2025-11-22 22:45:10] Packets: 15     Status: NORMAL
+[2025-11-22 22:45:11] Packets: 5      Status: NORMAL
+[2025-11-22 22:45:12] Packets: 13     Status: NORMAL
+[2025-11-22 22:45:13] Packets: 5      Status: NORMAL
+[2025-11-22 22:45:14] Packets: 9      Status: NORMAL
+[2025-11-22 22:45:15] Packets: 8      Status: NORMAL
+[2025-11-22 22:45:16] Packets: 6      Status: NORMAL
+[2025-11-22 22:45:17] Packets: 4      Status: NORMAL
+[2025-11-22 22:45:18] Packets: 2      Status: NORMAL
+[2025-11-22 22:45:19] Packets: 29     Status: NORMAL
+[2025-11-22 22:45:20] Packets: 27     Status: NORMAL
+[2025-11-22 22:45:21] Packets: 4      Status: NORMAL
+[2025-11-22 22:45:22] Packets: 1      Status: NORMAL
+[2025-11-22 22:45:23] Packets: 2      Status: NORMAL
+[2025-11-22 22:45:24] Packets: 6      Status: NORMAL
+[2025-11-22 22:45:25] Packets: 3      Status: NORMAL
+[2025-11-22 22:45:26] Packets: 35     Status: NORMAL
+[2025-11-22 22:45:27] Packets: 10     Status: NORMAL
+[2025-11-22 22:45:28] Packets: 8      Status: NORMAL
+[2025-11-22 22:45:29] Packets: 7      Status: NORMAL
+[2025-11-22 22:45:30] Packets: 5      Status: NORMAL
+[2025-11-22 22:45:31] Packets: 0      Status: NORMAL
+[2025-11-22 22:45:32] Packets: 1      Status: NORMAL
+[2025-11-22 22:45:33] Packets: 1      Status: NORMAL
+[2025-11-22 22:45:34] Packets: 1      Status: NORMAL
+[2025-11-22 22:45:35] Packets: 45     Status: NORMAL
+[2025-11-22 22:45:36] Packets: 31     Status: NORMAL
+[2025-11-22 22:45:37] Packets: 2      Status: NORMAL
+[2025-11-22 22:45:38] Packets: 11     Status: NORMAL
+[2025-11-22 22:45:39] Packets: 1      Status: NORMAL
+[2025-11-22 22:45:40] Packets: 3      Status: NORMAL
+[2025-11-22 22:45:41] Packets: 4      Status: NORMAL
+[2025-11-22 22:45:42] Packets: 5      Status: NORMAL
+[2025-11-22 22:45:43] Packets: 6      Status: NORMAL
+[2025-11-22 22:45:44] Packets: 3      Status: NORMAL
+[2025-11-22 22:45:45] Packets: 1      Status: NORMAL
+[2025-11-22 22:45:46] Packets: 0      Status: NORMAL
+[2025-11-22 22:45:47] Packets: 1      Status: NORMAL
+[2025-11-22 22:45:48] Packets: 716    Status: NORMAL
+[2025-11-22 22:45:49] Packets: 1395   Status: ATTACK
+[2025-11-22 22:45:50] Packets: 188    Status: NORMAL
+[2025-11-22 22:45:51] Packets: 11     Status: NORMAL
+[2025-11-22 22:45:52] Packets: 6      Status: NORMAL
+[2025-11-22 22:45:53] Packets: 7      Status: NORMAL
+[2025-11-22 22:45:54] Packets: 3      Status: NORMAL
+[2025-11-22 22:45:55] Packets: 3      Status: NORMAL
+[2025-11-22 22:45:56] Packets: 1      Status: NORMAL
+[2025-11-22 22:45:57] Packets: 3      Status: NORMAL
+[2025-11-22 22:45:58] Packets: 2      Status: NORMAL
+[2025-11-22 22:45:59] Packets: 3      Status: NORMAL
+[2025-11-22 22:46:00] Packets: 4      Status: NORMAL
+[2025-11-22 22:46:01] Packets: 9      Status: NORMAL
+[2025-11-22 22:46:02] Packets: 4      Status: NORMAL
+[2025-11-22 22:46:03] Packets: 3      Status: NORMAL
+[2025-11-22 22:46:04] Packets: 2      Status: NORMAL
+[2025-11-22 22:46:05] Packets: 5      Status: NORMAL
+[2025-11-22 22:46:06] Packets: 4      Status: NORMAL
+[2025-11-22 22:46:07] Packets: 9      Status: NORMAL
+[2025-11-22 22:46:08] Packets: 10     Status: NORMAL
+[2025-11-22 22:46:09] Packets: 3      Status: NORMAL
+[2025-11-22 22:46:10] Packets: 2      Status: NORMAL
+[2025-11-22 22:46:11] Packets: 1      Status: NORMAL
+[2025-11-22 22:46:12] Packets: 5      Status: NORMAL
+[2025-11-22 22:46:13] Packets: 3      Status: NORMAL
+[2025-11-22 22:46:14] Packets: 2      Status: NORMAL
+[2025-11-22 22:46:15] Packets: 1      Status: NORMAL
+[2025-11-22 22:46:16] Packets: 0      Status: NORMAL
+[2025-11-22 22:46:17] Packets: 1      Status: NORMAL
+[2025-11-22 22:46:18] Packets: 1      Status: NORMAL
+[2025-11-22 22:46:19] Packets: 1      Status: NORMAL
+[2025-11-22 22:46:20] Packets: 6      Status: NORMAL
+[2025-11-22 22:46:21] Packets: 3      Status: NORMAL
+[2025-11-22 22:46:22] Packets: 1      Status: NORMAL
+[2025-11-22 22:46:23] Packets: 6      Status: NORMAL
+[2025-11-22 22:46:24] Packets: 8      Status: NORMAL
+[2025-11-22 22:46:25] Packets: 1      Status: NORMAL
+[2025-11-22 22:46:26] Packets: 9      Status: NORMAL
+[2025-11-22 22:46:27] Packets: 10     Status: NORMAL
+[2025-11-22 22:46:28] Packets: 68     Status: NORMAL
+[2025-11-22 22:46:29] Packets: 1      Status: NORMAL
+[2025-11-22 22:46:30] Packets: 52     Status: NORMAL
+[2025-11-22 22:46:31] Packets: 1      Status: NORMAL
+[2025-11-22 22:46:32] Packets: 1      Status: NORMAL
+[2025-11-22 22:46:33] Packets: 0      Status: NORMAL
+[2025-11-22 22:46:34] Packets: 1      Status: NORMAL
+[2025-11-22 22:46:35] Packets: 22     Status: NORMAL
+[2025-11-22 22:46:36] Packets: 0      Status: NORMAL
+[2025-11-22 22:46:37] Packets: 2      Status: NORMAL
+[2025-11-22 22:46:38] Packets: 6      Status: NORMAL
+[2025-11-22 22:46:39] Packets: 0      Status: NORMAL
+[2025-11-22 22:46:40] Packets: 1      Status: NORMAL
+[2025-11-22 22:46:41] Packets: 1      Status: NORMAL
+[2025-11-22 22:46:42] Packets: 4      Status: NORMAL
+[2025-11-22 22:46:43] Packets: 9      Status: NORMAL
+[2025-11-22 22:46:44] Packets: 2      Status: NORMAL
